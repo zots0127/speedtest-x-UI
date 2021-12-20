@@ -5,16 +5,14 @@
 
 speedtest-x 使用文件数据库来保存来自不同用户的测速结果，方便您查看全国不同地域与运营商的测速效果。
 
+[加入交流 TG 群](https://t.me/xiaozhu5)
+
 **❗ 注意**：基于网页测速的原理，程序会生成无用文件供测速者下载来计算真实下行带宽，一定程度上存在被恶意刷流量的风险，在对外分享你的测速页面后，请注意观察服务器流量使用情况，避免流量使用异常。
 
 ## 扩展细节
  - 用户测速会上传测速记录并保存至网站服务器
  - 不依赖 MySQL，使用文件数据库
  - IP 库改用 [ip.sb](https://ip.sb)，运营商记录更为精确
-
-## 恰饭
-
-Jetbrains 全家桶教育许可，正规国内大学渠道，9.9 元，购买地址：[https://xiaozhu.win](https://xiaozhu.win)
 
 ## 部署与使用
 
@@ -36,7 +34,11 @@ Jetbrains 全家桶教育许可，正规国内大学渠道，9.9 元，购买地
 
 1、拉取 [Docker 镜像](https://hub.docker.com/r/badapple9/speedtest-x) `docker pull badapple9/speedtest-x`
 
-2、运行容器 `docker run [-d] -p 9001:80 -it badapple9/speedtest-x`
+  (**ARM 架构的机器，执行 `docker pull stilleshan/speedtest-x`**，ARM 镜像由热心网友制作)
+
+2、运行容器 `docker run -d -p 9001:80 -it badapple9/speedtest-x`   
+
+  (**ARM 架构的机器，运行 `docker run -d -p 9001:80 -it stilleshan/speedtest-x`**)
 
 > **-d**：以常驻进程模式启动
 >
@@ -51,6 +53,16 @@ Jetbrains 全家桶教育许可，正规国内大学渠道，9.9 元，购买地
 > **-e IP_SERVICE=ip.sb**: 使用的 IP 运营商解析服务(ip.sb 或 ipinfo.io)
 >
 > **-e SAME_IP_MULTI_LOGS=false**: 是否允许同一IP记录多条测速结果
+
+> 如果想让 Docker 容器支持 ipv6，可编辑 `/etc/docker/daemon.json` ，加上以下内容：（如果不存在这个文件则直接创建）
+> ```
+> {
+>   "ipv6": true,
+>   "fixed-cidr-v6": "fd00::/80",
+>   "experimental": true,
+>   "ip6tables": true
+> }
+> ```
 
 3、访问 `{IP}:{端口}/index.html` 进行测速
 
