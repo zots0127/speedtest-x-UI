@@ -1,0 +1,725 @@
+,ip,isp,addr,dspeed,uspeed,ping,jitter,created,hr
+1,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",49.12,0.0,16.9,32.31,2022-05-24 20:28:11,20.466666666666665
+2,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",54.45,0.0,18.5,14.44,2022-05-24 20:27:52,20.45
+19,103.117.101.*,DMIT,"Hong Kong,,",214.72,0.0,281.0,5.83,2022-05-08 12:52:52,12.866666666666667
+21,218.188.148.*,HGC Broadband,"Hong Kong,Central and Western District,Central",335.62,0.0,285.0,90.83,2022-05-06 13:05:28,13.083333333333334
+26,218.188.148.*,HGC Broadband,"Hong Kong,Central and Western District,Central",304.75,0.0,291.0,102.47,2022-05-04 23:09:26,23.15
+36,143.198.233.*,Digital Ocean,"United States,California,Santa Clara",170.53,0.0,276.0,20.89,2022-05-01 18:21:10,18.35
+44,103.117.101.*,DMIT,"Hong Kong,,",122.48,0.0,295.0,300.23,2022-04-26 19:54:46,19.9
+49,20.205.35.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",250.83,0.0,295.0,66.98,2022-04-26 16:22:13,16.366666666666667
+53,103.117.101.*,DMIT,"Hong Kong,,",88.7,0.0,293.0,11.79,2022-04-26 11:22:23,11.366666666666667
+54,103.117.101.*,DMIT,"Hong Kong,,",35.26,0.0,296.0,12.87,2022-04-26 07:17:54,7.283333333333333
+55,103.152.112.*,Nato Research,"United States,California,Fremont",96.92,0.0,288.0,111.72,2022-04-25 17:58:59,17.966666666666665
+57,103.117.101.*,DMIT,"Hong Kong,,",235.73,0.0,287.0,73.85,2022-04-24 16:58:41,16.966666666666665
+59,103.166.246.*,Nanjing Echofa Precision Mould Manufacturing Co.,"China,,",179.52,0.0,296.0,93.93,2022-04-24 08:53:53,8.883333333333333
+71,8.37.43.*,Cloudflare Warp,"Japan,Tokyo,Tokyo",78.93,0.0,203.6,1.16,2022-04-19 22:03:33,22.05
+73,103.117.101.*,DMIT,"Hong Kong,,",199.47,0.0,280.0,14.36,2022-04-16 18:38:18,18.633333333333333
+75,147.182.237.*,Digital Ocean,"United States,California,Santa Clara",342.85,0.0,278.0,44.39,2022-04-14 20:03:15,20.05
+76,147.182.227.*,Digital Ocean,"United States,California,Santa Clara",237.9,0.0,288.0,80.81,2022-04-06 17:47:52,17.783333333333335
+77,52.184.102.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",288.35,0.0,255.0,188.97,2022-04-01 14:59:56,14.983333333333333
+80,13.72.214.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",219.12,0.0,276.0,51.64,2022-03-23 10:02:16,10.033333333333333
+81,20.205.32.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",191.92,0.0,280.0,121.5,2022-03-23 10:01:41,10.016666666666667
+82,20.205.32.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",201.75,0.0,280.0,121.5,2022-03-23 10:01:41,10.016666666666667
+85,1.164.224.*,Chunghwa Telecom,"Taiwan,Taipei City,Taipei",89.9,0.0,293.0,22.18,2022-03-07 18:37:53,18.616666666666667
+87,64.227.97.*,Digital Ocean,"United States,California,Santa Clara",350.31,0.0,250.0,2.57,2022-02-25 15:34:38,15.566666666666666
+88,64.227.97.*,Digital Ocean,"United States,California,Santa Clara",343.38,0.0,250.0,2.57,2022-02-25 15:34:38,15.566666666666666
+89,18.162.246.*,Amazon.com,"Hong Kong,,",301.04,0.0,257.0,88.59,2022-02-21 13:29:52,13.483333333333333
+91,18.162.143.*,Amazon.com,"Hong Kong,,",209.64,0.0,293.0,4.63,2022-02-20 10:48:40,10.8
+93,18.162.149.*,Amazon.com,"Hong Kong,Central and Western District,Central",248.19,0.0,260.0,26.37,2022-02-16 15:40:52,15.666666666666666
+94,18.162.149.*,Amazon.com,"Hong Kong,Central and Western District,Central",242.63,0.0,260.0,26.37,2022-02-16 15:40:52,15.666666666666666
+96,18.162.110.*,Amazon.com,"Hong Kong,,",316.46,0.0,261.0,26.27,2022-02-14 16:48:41,16.8
+97,222.133.243.*,China Unicom,"China,Shandong,Gulou",218.96,0.0,290.0,75.26,2022-02-14 16:47:56,16.783333333333335
+100,18.162.110.*,Amazon.com,"Hong Kong,,",176.59,0.0,291.0,4.33,2022-02-14 16:30:20,16.5
+101,18.162.47.*,Amazon.com,"Hong Kong,,",176.75,0.0,296.0,10.68,2022-02-14 16:29:53,16.483333333333334
+103,18.162.116.*,Amazon.com,"Hong Kong,,",196.34,0.0,255.0,82.54,2022-02-14 16:29:20,16.483333333333334
+106,103.117.101.*,DMIT,"Hong Kong,,",249.14,0.0,291.0,3.21,2022-02-13 16:12:17,16.2
+108,61.227.193.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",73.64,0.0,293.0,40.06,2022-02-12 15:40:34,15.666666666666666
+109,185.14.47.*,G-Core Labs S.A.,"Hong Kong,Central and Western District,Central",7.74,0.0,239.0,15.24,2022-02-12 15:39:39,15.65
+113,64.227.97.*,Digital Ocean,"United States,California,Santa Clara",375.41,0.0,291.0,3.75,2022-02-07 02:58:27,2.966666666666667
+114,18.162.245.*,Amazon.com,"Hong Kong,,",295.5,0.0,287.0,2.66,2022-01-22 22:06:24,22.1
+115,18.162.245.*,Amazon.com,"Hong Kong,,",304.88,0.0,287.0,2.66,2022-01-22 22:06:24,22.1
+116,18.162.188.*,Amazon.com,"Hong Kong,,",160.55,0.0,255.0,53.44,2022-01-17 14:33:24,14.55
+117,18.162.193.*,Amazon.com,"Hong Kong,,",173.71,0.0,266.0,100.6,2022-01-03 14:28:56,14.466666666666667
+118,8.31.2.*,Cloudflare Warp,"United States,California,Los Angeles",16.01,0.0,292.0,2.21,2021-12-31 17:46:49,17.766666666666666
+120,20.187.67.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",235.36,0.0,289.0,5.37,2021-12-25 16:44:39,16.733333333333334
+124,20.205.61.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",77.5,0.0,291.0,9.11,2021-12-16 22:01:43,22.016666666666666
+125,1.164.234.*,Chunghwa Telecom,"Taiwan,Taipei City,Taipei",137.6,0.0,292.0,67.88,2021-12-16 18:47:56,18.783333333333335
+126,1.164.234.*,Chunghwa Telecom,"Taiwan,Taipei City,Taipei",92.76,0.0,293.0,4.81,2021-12-16 18:46:30,18.766666666666666
+127,23.98.39.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",20.77,0.0,290.0,6.53,2021-12-16 18:45:24,18.75
+128,20.187.67.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",15.29,0.0,290.0,6.87,2021-12-16 18:44:18,18.733333333333334
+129,50.7.159.*,Fdcservers,"Japan,Tokyo,Tokyo",72.35,0.0,244.0,53.56,2021-12-16 14:31:03,14.516666666666667
+130,50.7.159.*,Fdcservers,"Japan,Tokyo,Tokyo",61.79,0.0,244.0,53.56,2021-12-16 14:31:03,14.516666666666667
+131,172.104.98.*,Linode,"Japan,Tokyo,Tokyo",257.53,0.0,189.0,15.88,2021-12-14 15:14:00,15.233333333333333
+132,172.104.98.*,Linode,"Japan,Tokyo,Tokyo",259.77,0.0,189.0,15.88,2021-12-14 15:14:00,15.233333333333333
+134,104.245.14.*,xTom,"United States,California,San Jose",238.75,0.0,278.0,5.36,2021-12-11 16:35:51,16.583333333333332
+135,20.187.67.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",245.17,0.0,223.0,1.56,2021-12-10 15:21:35,15.35
+136,163.125.212.*,China Unicom Shenzen,"China,Guangdong,Shenzhen",10.07,0.0,239.2,1.5,2021-12-09 02:05:55,2.0833333333333335
+140,20.187.122.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",148.5,0.0,294.0,82.85,2021-11-29 22:54:01,22.9
+141,154.17.13.*,DMIT,"United States,California,Los Angeles",180.74,0.0,208.0,1.25,2021-11-29 00:07:11,0.11666666666666667
+142,8.217.87.*,Alibaba,"Hong Kong,Central and Western District,Central",30.78,0.0,249.0,63.19,2021-11-29 00:03:15,0.05
+146,154.17.13.*,DMIT,"United States,California,Los Angeles",154.67,0.0,203.0,1.76,2021-11-29 00:00:06,0.0
+147,43.129.157.*,Tencent cloud computing,"Hong Kong,Central and Western District,Central",36.84,0.0,243.0,8.56,2021-11-28 23:59:42,23.983333333333334
+148,43.155.88.*,Tencent cloud computing,"China,,",69.57,0.0,236.0,5.37,2021-11-28 23:58:55,23.966666666666665
+150,20.187.67.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",198.61,0.0,243.0,20.29,2021-11-25 11:46:00,11.766666666666667
+151,23.101.2.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",89.89,0.0,290.0,192.83,2021-11-22 23:39:45,23.65
+152,23.101.2.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",90.95,0.0,290.0,192.83,2021-11-22 23:39:45,23.65
+153,20.187.64.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",211.68,0.0,293.0,2.04,2021-11-22 23:37:55,23.616666666666667
+154,20.187.64.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",149.91,0.0,293.0,99.96,2021-11-22 21:54:03,21.9
+156,107.150.5.*,QuadraNet,"United States,California,Los Angeles",218.85,0.0,211.0,3.93,2021-11-22 21:31:06,21.516666666666666
+157,107.150.5.*,QuadraNet,"United States,California,Los Angeles",92.6,0.0,288.0,8.39,2021-11-22 21:29:32,21.483333333333334
+158,20.187.66.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",85.03,0.0,290.0,88.7,2021-11-22 21:02:57,21.033333333333335
+159,20.187.66.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",87.91,0.0,290.0,88.7,2021-11-22 21:02:57,21.033333333333335
+165,137.184.89.*,Digital Ocean,"United States,California,Santa Clara",92.85,0.0,289.0,5.03,2021-11-22 20:50:24,20.833333333333332
+166,20.187.64.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",97.78,0.0,248.0,64.37,2021-11-22 20:49:19,20.816666666666666
+167,13.75.69.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",97.53,0.0,291.0,35.65,2021-11-22 20:48:36,20.8
+168,13.75.69.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",98.2,0.0,291.0,35.65,2021-11-22 20:48:36,20.8
+169,20.187.65.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",94.55,0.0,292.0,4.37,2021-11-22 20:48:17,20.8
+170,20.187.65.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",95.26,0.0,292.0,4.37,2021-11-22 20:48:17,20.8
+175,23.98.35.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",6.72,0.0,248.6,151.83,2021-11-22 16:06:48,16.1
+176,20.187.65.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",4.8,0.0,251.7,21.3,2021-11-22 16:06:30,16.1
+177,20.205.107.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",4.88,0.0,255.9,13.07,2021-11-22 16:06:01,16.1
+178,39.70.90.*,China Unicom,"China,Shandong,Liaocheng",110.97,0.0,262.0,15.52,2021-11-22 16:04:29,16.066666666666666
+179,39.70.90.*,China Unicom,"China,Shandong,Liaocheng",232.98,0.0,292.0,3.5,2021-11-18 12:00:55,12.0
+180,104.208.73.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",64.5,0.0,289.0,4.57,2021-11-17 18:31:18,18.516666666666666
+181,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",85.26,0.0,293.0,73.04,2021-11-17 17:50:30,17.833333333333332
+182,218.190.242.*,HGC Broadband,"Hong Kong,,Nai Chung",27.51,0.0,221.0,150.86,2021-11-17 17:49:43,17.816666666666666
+183,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",67.89,0.0,298.0,90.41,2021-11-17 15:49:28,15.816666666666666
+184,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",61.04,0.0,263.0,298.48,2021-11-17 15:18:40,15.3
+186,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",63.69,0.0,296.0,22.02,2021-11-17 13:08:21,13.133333333333333
+187,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",64.81,0.0,293.0,2.51,2021-11-17 12:52:13,12.866666666666667
+188,107.150.5.*,QuadraNet,"United States,California,Los Angeles",85.26,0.0,295.0,26.85,2021-11-17 12:46:27,12.766666666666667
+189,107.150.5.*,QuadraNet,"United States,California,Los Angeles",72.81,0.0,291.0,5.41,2021-11-17 12:43:33,12.716666666666667
+190,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",72.66,0.0,292.0,8.1,2021-11-17 12:38:40,12.633333333333333
+191,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",72.91,0.0,270.0,18.25,2021-11-17 12:38:23,12.633333333333333
+192,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",75.85,0.0,290.0,3.59,2021-11-17 12:18:56,12.3
+193,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",71.73,0.0,275.0,15.25,2021-11-17 12:18:34,12.3
+194,104.208.75.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",76.37,0.0,291.0,4.12,2021-11-17 12:17:49,12.283333333333333
+196,23.98.35.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",78.23,0.0,294.0,1.77,2021-11-17 12:16:34,12.266666666666667
+197,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",15.87,0.0,277.0,27.72,2021-11-17 12:07:53,12.116666666666667
+198,13.75.69.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",257.83,0.0,292.0,6.76,2021-11-17 12:07:19,12.116666666666667
+199,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",22.7,0.0,292.0,6.8,2021-11-17 10:52:35,10.866666666666667
+200,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",27.11,0.0,293.0,5.94,2021-11-17 10:50:17,10.833333333333334
+201,104.208.73.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",23.11,0.0,246.0,74.45,2021-11-17 10:46:03,10.766666666666667
+202,111.250.40.*,Chunghwa Telecom,"Taiwan,Taipei City,Taipei",16.83,0.0,291.0,62.99,2021-11-17 10:45:25,10.75
+204,61.227.240.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",27.45,0.0,268.0,35.05,2021-11-17 10:43:45,10.716666666666667
+206,112.224.141.*,China Unicom Liaoning,"China,Shandong,Jinan",121.09,0.0,263.0,48.23,2021-11-12 15:00:42,15.0
+208,107.150.5.*,QuadraNet,"United States,California,Los Angeles",70.36,0.0,222.0,51.59,2021-11-11 13:24:48,13.4
+209,107.150.5.*,QuadraNet,"United States,California,Los Angeles",93.16,0.0,290.0,5.48,2021-11-08 09:40:08,9.666666666666666
+210,107.150.5.*,QuadraNet,"United States,California,Los Angeles",174.44,0.0,211.0,0.99,2021-11-08 07:09:50,7.15
+212,13.75.93.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",271.53,0.0,292.0,5.24,2021-11-08 07:06:01,7.1
+213,13.75.93.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",262.13,0.0,290.0,7.17,2021-11-07 16:48:32,16.8
+214,107.150.5.*,QuadraNet,"United States,California,Los Angeles",139.44,0.0,214.0,63.91,2021-11-05 21:18:51,21.3
+220,52.175.14.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",207.4,0.0,292.0,10.5,2021-11-01 19:24:17,19.4
+221,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",2.98,0.0,211.7,5.4,2021-10-31 20:25:15,20.416666666666668
+222,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Hunan,Changsha",205.11,0.0,217.2,0.72,2021-10-30 11:31:06,11.516666666666667
+227,107.150.5.*,QuadraNet,"United States,California,Los Angeles",137.7,0.0,278.0,366.59,2021-10-24 23:16:11,23.266666666666666
+229,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Hunan,Changsha",1.87,0.0,217.3,3.77,2021-10-22 22:15:05,22.25
+233,185.249.221.*,Cnservers LLC,"United States,,",24.11,0.0,290.0,5.98,2021-10-18 23:41:52,23.683333333333334
+236,199.255.96.*,Multacom Corporation,"United States,,",27.3,0.0,226.0,9.78,2021-10-18 23:39:08,23.65
+237,173.82.212.*,"CLOUDCONE, LLC","United States,,",163.61,0.0,218.0,55.64,2021-10-18 23:38:53,23.633333333333333
+239,67.209.189.*,IT7 Networks,"United States,California,Los Angeles",34.34,0.0,215.0,342.69,2021-10-18 23:34:37,23.566666666666666
+240,107.150.5.*,QuadraNet,"United States,California,Los Angeles",230.84,0.0,237.0,0.89,2021-10-18 08:58:36,8.966666666666667
+241,107.150.5.*,QuadraNet,"United States,California,Los Angeles",77.93,0.0,231.0,8.42,2021-10-18 08:57:43,8.95
+244,111.251.126.*,Chunghwa Telecom,"Taiwan,Taipei City,Taipei",3.9,0.0,242.0,39.59,2021-10-12 10:39:07,10.65
+246,18.162.125.*,Amazon.com,"Hong Kong,,",192.3,0.0,291.0,72.26,2021-10-11 19:35:15,19.583333333333332
+249,61.227.2.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",6.37,0.0,253.0,2.82,2021-10-10 11:11:57,11.183333333333334
+250,18.162.42.*,Amazon.com,"Hong Kong,,",130.08,0.0,297.0,3.58,2021-10-09 12:32:04,12.533333333333333
+253,107.150.5.*,QuadraNet,"United States,California,Los Angeles",231.89,0.0,212.0,55.43,2021-10-03 11:32:47,11.533333333333333
+258,107.150.5.*,QuadraNet,"United States,California,Los Angeles",230.84,0.0,213.0,1.8,2021-09-30 22:44:05,22.733333333333334
+259,38.106.23.*,Iptelecom Asia,"United States,,",30.07,0.0,203.0,2.07,2021-09-30 16:14:57,16.233333333333334
+261,107.150.5.*,QuadraNet,"United States,California,Los Angeles",71.94,0.0,207.0,1.59,2021-09-30 13:01:39,13.016666666666667
+263,107.150.5.*,QuadraNet,"United States,California,Los Angeles",85.94,0.0,298.0,5.73,2021-09-30 12:53:54,12.883333333333333
+264,107.150.5.*,QuadraNet,"United States,California,Los Angeles",255.79,0.0,299.0,6.19,2021-09-30 12:46:08,12.766666666666667
+265,104.168.30.*,ColoCrossing,"United States,California,Los Angeles",108.78,0.0,298.0,222.21,2021-09-30 12:43:57,12.716666666666667
+268,61.227.22.*,Chunghwa Telecom,"Taiwan,Kaohsiung,Kaohsiung City",231.36,0.0,279.0,21.19,2021-09-28 23:11:00,23.183333333333334
+272,218.175.208.*,Chunghwa Telecom,"Taiwan,,",183.92,0.0,271.0,20.82,2021-09-23 16:26:36,16.433333333333334
+273,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",161.45,0.0,214.0,15.47,2021-09-21 12:18:04,12.3
+274,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",159.21,0.0,214.0,15.47,2021-09-21 12:18:04,12.3
+275,161.81.234.*,China Mobile Hong Kong Broadband,"Hong Kong,,",149.39,0.0,299.0,4.57,2021-09-20 15:43:17,15.716666666666667
+277,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",272.73,0.0,195.3,0.81,2021-09-18 11:26:51,11.433333333333334
+278,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",145.28,0.0,299.0,2.47,2021-09-17 11:45:20,11.75
+280,96.45.191.*,IT7 Networks Inc,"United States,California,Los Angeles",265.1,0.0,203.0,1.58,2021-09-12 00:15:24,0.25
+281,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",88.79,0.0,198.3,3.48,2021-09-11 22:35:01,22.583333333333332
+282,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",89.11,0.0,197.9,1.06,2021-09-11 22:34:46,22.566666666666666
+283,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",231.93,0.0,203.3,1.05,2021-09-09 10:54:29,10.9
+286,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",201.46,0.0,202.2,0.47,2021-09-07 13:16:47,13.266666666666667
+287,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",111.97,0.0,196.7,1.3,2021-09-06 22:31:16,22.516666666666666
+288,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",4.18,0.0,200.6,2.9,2021-09-06 22:31:00,22.516666666666666
+289,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",137.0,0.0,299.0,72.14,2021-09-06 14:40:35,14.666666666666666
+290,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",141.28,0.0,299.0,72.14,2021-09-06 14:40:35,14.666666666666666
+291,204.124.181.*,Fiber-logic,"Japan,Ōsaka,Osaka",33.83,0.0,201.0,51.99,2021-09-06 14:39:49,14.65
+292,204.124.181.*,Fiber-logic,"Japan,Ōsaka,Osaka",28.16,0.0,201.0,51.99,2021-09-06 14:39:49,14.65
+293,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",101.85,0.0,200.8,5.66,2021-09-06 12:36:31,12.6
+294,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",195.53,0.0,197.7,0.49,2021-09-06 12:36:15,12.6
+295,96.45.191.*,IT7 Networks Inc,"United States,California,Los Angeles",115.22,0.0,299.0,5.71,2021-09-06 09:39:23,9.65
+296,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",154.0,0.0,299.0,44.68,2021-09-06 08:50:58,8.833333333333334
+297,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",156.28,0.0,299.0,44.68,2021-09-06 08:50:58,8.833333333333334
+302,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",216.0,0.0,193.5,0.99,2021-09-03 11:49:57,11.816666666666666
+303,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",114.17,0.0,195.0,0.64,2021-09-03 11:49:40,11.816666666666666
+310,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",152.16,0.0,210.0,45.94,2021-08-31 12:32:58,12.533333333333333
+311,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",153.22,0.0,210.0,45.94,2021-08-31 12:32:58,12.533333333333333
+316,178.128.85.*,Digital Ocean,"Singapore,,Singapore",283.16,0.0,283.9,2.19,2021-08-30 23:14:18,23.233333333333334
+320,168.63.133.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",4.86,0.0,280.9,37.08,2021-08-30 21:59:44,21.983333333333334
+325,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",43.36,0.0,208.4,0.69,2021-08-29 23:00:17,23.0
+326,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",81.83,0.0,193.7,0.47,2021-08-29 23:00:01,23.0
+327,13.75.104.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",270.31,0.0,250.0,11.73,2021-08-29 10:41:05,10.683333333333334
+328,23.98.41.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",129.62,0.0,292.0,12.16,2021-08-27 15:27:00,15.45
+329,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",290.77,0.0,203.9,0.6,2021-08-26 21:29:29,21.483333333333334
+330,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",296.16,0.0,205.5,0.49,2021-08-26 12:45:29,12.75
+331,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",208.59,0.0,199.8,0.87,2021-08-26 12:45:15,12.75
+332,154.17.7.*,DMIT,"United States,California,Los Angeles",45.92,0.0,229.0,46.36,2021-08-25 23:29:30,23.483333333333334
+334,119.28.118.*,Tencent cloud computing,"Singapore,,Singapore",32.28,0.0,290.0,70.06,2021-08-25 17:12:21,17.2
+337,111.251.119.*,Chunghwa Telecom,"Taiwan,New Taipei,New Taipei",53.45,0.0,262.0,20.41,2021-08-22 16:01:30,16.016666666666666
+339,23.98.41.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",99.79,0.0,225.0,3.27,2021-08-21 16:52:14,16.866666666666667
+340,111.251.119.*,Chunghwa Telecom,"Taiwan,New Taipei,New Taipei",74.67,0.0,299.0,2.22,2021-08-21 13:15:33,13.25
+341,111.251.119.*,Chunghwa Telecom,"Taiwan,New Taipei,New Taipei",64.85,0.0,299.0,2.22,2021-08-21 13:15:33,13.25
+343,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",208.0,0.0,204.2,0.47,2021-08-20 17:02:27,17.033333333333335
+344,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",171.66,0.0,201.0,35.24,2021-08-13 11:21:52,11.35
+345,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",145.85,0.0,198.3,1.06,2021-08-12 20:26:33,20.433333333333334
+346,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",149.47,0.0,201.3,1.32,2021-08-10 18:17:06,18.283333333333335
+347,8.26.182.*,Cloudflare Warp,"United States,California,Los Angeles",28.86,0.0,243.0,12.62,2021-08-10 04:44:57,4.733333333333333
+349,204.124.181.*,Fiber-logic,"Netherlands,North Holland,Amsterdam",100.07,0.0,200.0,2.86,2021-08-10 03:22:59,3.3666666666666667
+350,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",104.73,0.0,202.0,41.23,2021-08-09 13:03:39,13.05
+351,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",123.63,0.0,298.0,4.31,2021-08-09 13:01:51,13.016666666666667
+355,23.83.224.*,IT7 Networks Inc,"United States,California,Fremont",130.61,0.0,226.0,22.23,2021-08-08 16:14:53,16.233333333333334
+356,27.222.97.*,China Unicom Liaoning,"China,Shandong,Liaocheng",116.63,0.0,207.0,0.97,2021-08-07 17:48:38,17.8
+357,27.222.97.*,China Unicom Liaoning,"China,Shandong,Liaocheng",109.79,0.0,207.0,0.97,2021-08-07 17:48:38,17.8
+359,23.83.224.*,IT7 Networks Inc,"United States,California,Fremont",46.82,0.0,196.0,176.58,2021-07-26 18:16:55,18.266666666666666
+360,36.142.191.*,China Mobile Guangdong,"China,Gansu,Lanzhou",20.4,0.0,245.4,229.8,2021-07-20 21:08:03,21.133333333333333
+362,36.142.191.*,China Mobile Guangdong,"China,Gansu,Lanzhou",80.66,0.0,271.0,50.35,2021-07-19 21:56:30,21.933333333333334
+363,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",145.79,0.0,213.7,4.47,2021-07-17 20:21:50,20.35
+364,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",114.68,0.0,212.5,0.83,2021-07-17 20:21:35,20.35
+365,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",122.65,0.0,208.0,19.94,2021-07-17 20:21:19,20.35
+366,23.83.224.*,IT7 Networks Inc,"United States,California,Fremont",186.5,0.0,299.0,2.15,2021-07-16 12:58:14,12.966666666666667
+367,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",204.11,0.0,263.0,15.92,2021-07-15 00:29:42,0.48333333333333334
+368,23.83.224.*,IT7 Networks Inc,"United States,California,Fremont",111.99,0.0,298.0,3.98,2021-07-10 15:42:27,15.7
+372,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",183.2,0.0,299.0,32.65,2021-07-05 18:49:19,18.816666666666666
+374,23.83.224.*,IT7 Networks Inc,"United States,California,Fremont",110.16,0.0,221.0,72.39,2021-07-04 18:45:30,18.75
+375,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",159.07,0.0,198.0,78.64,2021-07-01 11:39:09,11.65
+376,52.230.34.*,Microsoft Azure,"Singapore,,Singapore",244.85,0.0,283.0,42.65,2021-06-30 06:57:40,6.95
+377,13.72.208.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",220.58,0.0,236.0,8.81,2021-06-30 06:57:14,6.95
+378,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",61.1,0.0,299.0,196.75,2021-06-29 14:39:14,14.65
+379,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",110.2,0.0,210.7,0.76,2021-06-28 22:20:06,22.333333333333332
+380,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",39.31,0.0,230.0,45.9,2021-06-28 16:26:30,16.433333333333334
+381,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",55.36,0.0,259.0,256.63,2021-06-28 16:11:52,16.183333333333334
+382,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",51.89,0.0,259.0,256.63,2021-06-28 16:11:52,16.183333333333334
+384,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",220.16,0.0,204.7,2.41,2021-06-27 11:28:11,11.466666666666667
+385,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",105.41,0.0,213.3,1.21,2021-06-26 22:45:38,22.75
+386,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",114.64,0.0,207.4,7.28,2021-06-26 22:45:07,22.75
+387,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",150.85,0.0,205.0,2.86,2021-06-24 23:43:52,23.716666666666665
+388,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",134.79,0.0,213.7,19.89,2021-06-23 23:41:04,23.683333333333334
+389,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",95.5,0.0,212.3,0.56,2021-06-23 22:25:16,22.416666666666668
+391,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",157.96,0.0,213.6,0.54,2021-06-23 12:03:44,12.05
+392,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",128.54,0.0,205.0,1.0,2021-06-23 00:18:08,0.3
+393,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",49.67,0.0,215.0,2.09,2021-06-23 00:17:52,0.2833333333333333
+396,119.164.137.*,China Unicom Liaoning,"China,Shandong,Hongjialou",5.3,0.0,210.0,83.65,2021-06-19 22:07:50,22.116666666666667
+398,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",127.48,0.0,206.9,0.68,2021-06-16 14:00:57,14.0
+399,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",131.69,0.0,202.0,0.83,2021-06-16 13:57:50,13.95
+401,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Zhaoqing",46.17,0.0,188.8,3.0,2021-06-15 22:37:26,22.616666666666667
+402,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",144.9,0.0,198.6,0.99,2021-06-14 23:14:54,23.233333333333334
+403,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",114.9,0.0,202.1,0.46,2021-06-13 23:50:35,23.833333333333332
+404,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",143.59,0.0,208.5,0.7,2021-06-13 11:19:43,11.316666666666666
+406,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",3.94,0.0,203.1,0.43,2021-06-11 23:12:27,23.2
+407,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",130.25,0.0,204.2,1.62,2021-06-11 21:30:43,21.5
+408,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",157.16,0.0,199.6,1.05,2021-06-11 11:14:23,11.233333333333333
+409,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",142.15,0.0,199.6,3.1,2021-06-11 00:42:28,0.7
+410,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",78.62,0.0,204.6,0.84,2021-06-11 00:41:05,0.6833333333333333
+411,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",108.93,0.0,204.1,5.03,2021-06-10 23:49:45,23.816666666666666
+412,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",19.03,0.0,204.0,5.71,2021-06-10 23:49:29,23.816666666666666
+413,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",142.6,0.0,208.0,6.91,2021-06-10 23:37:45,23.616666666666667
+414,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",98.58,0.0,204.0,2.88,2021-06-10 23:37:30,23.616666666666667
+415,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",93.54,0.0,203.5,5.08,2021-06-10 22:53:04,22.883333333333333
+416,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",144.08,0.0,209.2,1.06,2021-06-10 20:25:15,20.416666666666668
+417,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",121.84,0.0,205.6,0.5,2021-06-10 20:24:51,20.4
+418,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",144.56,0.0,196.9,0.83,2021-06-10 18:02:37,18.033333333333335
+421,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",90.42,0.0,207.5,0.43,2021-06-10 12:44:15,12.733333333333333
+422,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",5.19,0.0,198.9,0.47,2021-06-10 11:39:39,11.65
+423,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",4.66,0.0,194.9,0.53,2021-06-10 11:36:22,11.6
+424,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",4.94,0.0,199.0,0.63,2021-06-10 11:36:08,11.6
+426,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",1.74,0.0,223.3,2.44,2021-06-09 23:29:41,23.483333333333334
+427,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",1.92,0.0,218.1,303.26,2021-06-09 23:29:22,23.483333333333334
+428,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",125.71,0.0,207.2,0.93,2021-06-08 12:43:11,12.716666666666667
+431,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",145.48,0.0,232.6,0.86,2021-06-06 20:32:12,20.533333333333335
+435,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",126.72,0.0,201.1,3.76,2021-06-04 00:04:03,0.06666666666666667
+437,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",92.57,0.0,210.9,1.23,2021-06-03 19:37:14,19.616666666666667
+441,39.83.178.*,China Unicom Liaoning,"China,Shandong,Jining",4.08,0.0,233.6,80.81,2021-06-02 22:39:02,22.65
+445,112.235.175.*,China Unicom Liaoning,"China,Shandong,Jining",3.0,0.0,242.5,14.77,2021-06-02 20:55:13,20.916666666666668
+448,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",176.65,0.0,201.0,104.12,2021-05-31 19:16:08,19.266666666666666
+452,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",131.05,0.0,199.87,0.91,2021-05-29 11:30:52,11.5
+455,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",151.3,0.0,205.41,0.81,2021-05-28 18:43:45,18.716666666666665
+456,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",146.8,0.0,209.25,0.76,2021-05-27 22:33:27,22.55
+460,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",119.97,0.0,190.28,1.04,2021-05-26 19:58:00,19.966666666666665
+461,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",149.51,0.0,201.18,0.89,2021-05-26 14:14:06,14.233333333333333
+462,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",170.37,0.0,206.0,55.98,2021-05-26 13:21:29,13.35
+464,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",99.5,0.0,199.0,35.07,2021-05-25 20:42:27,20.7
+465,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",108.43,0.0,199.0,35.07,2021-05-25 20:42:27,20.7
+466,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",141.86,0.0,204.77,0.93,2021-05-25 16:39:24,16.65
+467,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",72.54,0.0,201.97,1.66,2021-05-25 16:37:37,16.616666666666667
+469,114.216.84.*,China Telecom,"China,Jiangsu,Baoyancun",251.16,0.0,177.26,0.66,2021-05-23 21:15:01,21.25
+474,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",138.74,0.0,209.89,0.91,2021-05-22 11:09:45,11.15
+476,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",12.52,0.0,241.0,97.56,2021-05-21 22:05:56,22.083333333333332
+477,39.70.239.*,China Unicom Liaoning,"China,Shandong,Liaocheng",4.61,0.0,263.0,12.17,2021-05-21 22:05:20,22.083333333333332
+480,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",151.22,0.0,205.55,0.64,2021-05-19 23:31:10,23.516666666666666
+484,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",452.62,0.0,206.74,0.82,2021-05-19 12:22:16,12.366666666666667
+486,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",386.17,0.0,202.81,1.15,2021-05-19 11:24:01,11.4
+487,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",204.72,0.0,205.96,0.71,2021-05-19 11:11:48,11.183333333333334
+489,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",6.53,0.0,208.7,398.99,2021-05-18 23:08:03,23.133333333333333
+491,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",32.52,0.0,214.95,306.52,2021-05-18 22:25:04,22.416666666666668
+492,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",10.29,0.0,211.19,5.84,2021-05-18 22:17:05,22.283333333333335
+493,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",40.94,0.0,202.87,103.63,2021-05-18 22:16:32,22.266666666666666
+494,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",33.71,0.0,205.78,6.4,2021-05-18 22:16:14,22.266666666666666
+495,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",432.21,0.0,216.84,1.27,2021-05-18 20:54:22,20.9
+496,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",262.15,0.0,216.98,1.44,2021-05-18 20:53:44,20.883333333333333
+498,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",152.23,0.0,208.14,0.56,2021-05-18 10:44:46,10.733333333333333
+505,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",31.61,0.0,212.3,8.76,2021-05-17 01:16:19,1.2666666666666666
+506,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",12.92,0.0,203.5,63.43,2021-05-16 23:58:24,23.966666666666665
+508,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",16.95,0.0,221.2,29.9,2021-05-16 22:00:47,22.0
+509,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",16.67,0.0,217.1,57.79,2021-05-16 22:00:22,22.0
+511,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",26.1,0.0,212.6,19.84,2021-05-16 15:24:02,15.4
+512,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",119.1,0.0,209.26,0.18,2021-05-16 12:28:30,12.466666666666667
+516,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",87.33,0.0,216.68,4.95,2021-05-16 00:10:47,0.16666666666666666
+517,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",7.08,0.0,205.83,129.11,2021-05-16 00:10:30,0.16666666666666666
+518,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",14.98,0.0,210.85,5.67,2021-05-16 00:10:15,0.16666666666666666
+520,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",133.69,0.0,204.59,0.62,2021-05-15 12:25:13,12.416666666666666
+523,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",5.17,0.0,206.33,5.34,2021-05-15 01:00:01,1.0
+524,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",2.29,0.0,211.97,117.63,2021-05-14 23:18:14,23.3
+525,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",2.58,0.0,214.26,152.14,2021-05-14 23:17:57,23.283333333333335
+526,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",147.56,0.0,205.25,0.49,2021-05-14 22:32:11,22.533333333333335
+527,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",104.89,0.0,208.45,5.71,2021-05-14 22:14:04,22.233333333333334
+529,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaolong",147.56,0.0,204.51,6.64,2021-05-14 20:44:49,20.733333333333334
+530,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",35.22,0.0,216.12,6.06,2021-05-13 21:54:05,21.9
+531,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",18.13,0.0,205.98,5.73,2021-05-13 21:52:39,21.866666666666667
+532,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",0.99,0.0,225.58,0.93,2021-05-13 21:24:35,21.4
+533,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",87.43,0.0,217.35,3.94,2021-05-13 20:22:35,20.366666666666667
+534,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",121.29,0.0,217.39,0.86,2021-05-13 19:03:54,19.05
+535,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",85.27,0.0,211.0,88.18,2021-05-13 13:05:12,13.083333333333334
+536,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",80.21,0.0,211.0,88.18,2021-05-13 13:05:12,13.083333333333334
+537,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",132.03,0.0,200.26,2.71,2021-05-12 23:46:50,23.766666666666666
+538,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",104.2,0.0,211.44,2.86,2021-05-12 22:16:25,22.266666666666666
+539,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",89.87,0.0,205.28,132.48,2021-05-12 22:15:47,22.25
+540,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",152.7,0.0,203.85,0.52,2021-05-12 21:33:34,21.55
+541,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",139.2,0.0,198.49,1.01,2021-05-12 19:45:21,19.75
+543,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",96.7,0.0,205.42,4.91,2021-05-11 22:12:10,22.2
+545,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",70.69,0.0,208.14,3.91,2021-05-11 21:53:01,21.883333333333333
+546,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",108.36,0.0,205.74,2.17,2021-05-11 21:31:19,21.516666666666666
+547,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",129.23,0.0,198.13,3.79,2021-05-11 21:10:39,21.166666666666668
+548,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",122.89,0.0,206.1,3.0,2021-05-11 20:26:19,20.433333333333334
+549,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",113.53,0.0,212.2,5.04,2021-05-11 20:17:46,20.283333333333335
+551,1.198.250.*,China Telecom,"China,Henan,Zhoukou",0.85,0.0,266.3,22.99,2021-05-11 00:52:47,0.8666666666666667
+552,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",1.81,0.0,234.5,29.99,2021-05-10 23:52:22,23.866666666666667
+553,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",2.29,0.0,239.5,27.88,2021-05-10 23:51:03,23.85
+554,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",2.09,0.0,225.23,13.65,2021-05-10 21:27:32,21.45
+555,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",1.86,0.0,217.35,10.03,2021-05-10 20:39:04,20.65
+556,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",1.82,0.0,221.97,13.99,2021-05-10 20:38:43,20.633333333333333
+558,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",6.12,0.0,237.94,340.58,2021-05-10 20:23:38,20.383333333333333
+559,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",30.32,0.0,208.21,12.25,2021-05-10 19:38:25,19.633333333333333
+560,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",6.47,0.0,237.02,14.28,2021-05-10 19:38:09,19.633333333333333
+561,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",32.64,0.0,211.3,24.28,2021-05-10 19:20:59,19.333333333333332
+562,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",7.38,0.0,247.66,18.77,2021-05-10 19:15:05,19.25
+563,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",9.46,0.0,244.69,10.92,2021-05-10 19:14:50,19.233333333333334
+566,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",0.76,0.0,238.57,14.68,2021-05-09 22:42:09,22.7
+567,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",0.7,0.0,250.26,314.12,2021-05-09 22:41:53,22.683333333333334
+569,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",142.35,0.0,244.21,11.99,2021-05-09 20:29:32,20.483333333333334
+570,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",122.93,0.0,252.39,2.37,2021-05-09 20:20:31,20.333333333333332
+571,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",88.01,0.0,245.19,6.72,2021-05-09 18:45:01,18.75
+573,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",123.02,0.0,260.28,3.46,2021-05-09 12:45:29,12.75
+575,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",70.78,0.0,249.05,3.39,2021-05-09 11:08:49,11.133333333333333
+576,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",7.09,0.0,227.6,30.65,2021-05-08 22:48:04,22.8
+577,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",2.28,0.0,242.07,15.21,2021-05-08 22:38:50,22.633333333333333
+578,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",3.38,0.0,292.24,1.46,2021-05-08 22:38:33,22.633333333333333
+579,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",2.97,0.0,256.05,4.66,2021-05-08 22:29:24,22.483333333333334
+580,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",7.76,0.0,289.3,1.01,2021-05-08 22:29:10,22.483333333333334
+581,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",29.46,0.0,247.12,13.22,2021-05-08 21:53:16,21.883333333333333
+582,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",19.96,0.0,233.33,15.34,2021-05-08 21:52:55,21.866666666666667
+583,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",20.74,0.0,246.93,22.6,2021-05-08 21:51:02,21.85
+584,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",25.28,0.0,228.42,24.48,2021-05-08 21:50:48,21.833333333333332
+591,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",10.03,0.0,284.6,65.77,2021-05-07 21:59:56,21.983333333333334
+592,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",101.82,0.0,268.3,12.88,2021-05-07 19:34:16,19.566666666666666
+593,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",15.18,0.0,251.6,15.46,2021-05-07 19:33:57,19.55
+594,113.95.162.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",31.5,0.0,252.04,18.43,2021-05-07 19:30:06,19.5
+601,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",76.8,0.0,202.84,2.41,2021-05-06 22:03:22,22.05
+602,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",6.94,0.0,208.25,4.68,2021-05-06 22:03:07,22.05
+603,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",9.52,0.0,205.22,3.65,2021-05-06 22:00:16,22.0
+604,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",67.87,0.0,206.22,6.93,2021-05-06 21:30:40,21.5
+605,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",53.69,0.0,209.93,3.13,2021-05-06 20:47:16,20.783333333333335
+606,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",19.27,0.0,199.67,1.87,2021-05-06 20:47:03,20.783333333333335
+607,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",129.85,0.0,196.97,0.56,2021-05-06 18:57:17,18.95
+608,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",15.88,0.0,196.7,0.85,2021-05-06 18:56:52,18.933333333333334
+609,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",12.38,0.0,196.23,0.81,2021-05-06 18:56:36,18.933333333333334
+610,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",85.37,0.0,202.03,0.52,2021-05-06 18:52:45,18.866666666666667
+612,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",1.64,0.0,237.6,12.43,2021-05-05 14:48:00,14.8
+613,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",86.78,0.0,242.0,98.28,2021-05-05 14:02:51,14.033333333333333
+614,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",6.92,0.0,210.91,25.88,2021-05-05 12:39:53,12.65
+615,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",2.48,0.0,240.6,18.9,2021-05-04 22:47:00,22.783333333333335
+616,220.202.133.*,China Unicom Liaoning,"China,Hunan,Hengyang",2.71,0.0,253.6,287.83,2021-05-04 22:16:54,22.266666666666666
+617,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",7.57,0.0,203.12,23.67,2021-05-04 18:43:04,18.716666666666665
+618,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",18.45,0.0,200.67,26.6,2021-05-04 18:42:51,18.7
+619,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",4.53,0.0,202.89,229.13,2021-05-04 18:29:40,18.483333333333334
+620,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",3.23,0.0,222.91,21.88,2021-05-04 18:29:26,18.483333333333334
+621,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",6.83,0.0,225.47,21.44,2021-05-04 14:50:25,14.833333333333334
+622,113.102.35.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",14.16,0.0,230.59,24.45,2021-05-04 14:45:47,14.75
+623,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",5.26,0.0,221.24,305.75,2021-05-04 12:36:31,12.6
+624,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",20.96,0.0,231.78,12.4,2021-05-04 12:36:17,12.6
+625,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",6.53,0.0,228.62,26.55,2021-05-04 10:04:52,10.066666666666666
+628,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",2.42,0.0,274.28,255.73,2021-05-03 21:56:31,21.933333333333334
+629,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",2.35,0.0,256.84,14.83,2021-05-03 21:26:46,21.433333333333334
+630,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",3.0,0.0,256.65,345.93,2021-05-03 21:26:31,21.433333333333334
+631,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",1.74,0.0,247.04,315.36,2021-05-03 21:26:16,21.433333333333334
+632,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",9.27,0.0,226.41,21.21,2021-05-03 20:48:45,20.8
+633,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",11.03,0.0,220.31,16.82,2021-05-03 20:48:23,20.8
+634,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",27.24,0.0,245.56,3.14,2021-05-03 20:48:09,20.8
+635,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",130.04,0.0,210.73,0.67,2021-05-03 18:19:22,18.316666666666666
+636,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",47.37,0.0,235.26,2.61,2021-05-03 18:13:17,18.216666666666665
+637,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",49.45,0.0,210.53,7.04,2021-05-03 18:12:56,18.2
+638,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",96.52,0.0,209.47,1.47,2021-05-03 17:48:54,17.8
+639,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",10.64,0.0,202.73,0.63,2021-05-03 17:46:35,17.766666666666666
+641,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",105.01,0.0,214.33,0.52,2021-05-03 12:33:25,12.55
+642,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",28.5,0.0,211.91,10.65,2021-05-03 12:33:05,12.55
+646,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",107.0,0.0,299.0,4.29,2021-05-03 10:23:47,10.383333333333333
+647,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",1.24,0.0,228.1,49.84,2021-05-02 23:23:18,23.383333333333333
+648,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",8.94,0.0,215.23,1.13,2021-05-02 22:16:25,22.266666666666666
+650,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",2.58,0.0,210.17,3.87,2021-05-02 22:15:26,22.25
+651,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",2.98,0.0,208.57,215.95,2021-05-02 22:15:09,22.25
+652,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",4.53,0.0,204.3,4.67,2021-05-02 22:14:36,22.233333333333334
+653,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",62.43,0.0,201.95,2.31,2021-05-02 21:45:17,21.75
+654,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",7.81,0.0,261.62,7.01,2021-05-02 21:41:09,21.683333333333334
+655,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",157.35,0.0,217.56,1.96,2021-05-02 21:00:44,21.0
+656,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",4.14,0.0,238.12,15.03,2021-05-02 21:00:27,21.0
+657,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",104.76,0.0,202.48,0.73,2021-05-02 19:56:15,19.933333333333334
+658,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",25.02,0.0,206.7,52.06,2021-05-02 16:47:44,16.783333333333335
+659,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",30.36,0.0,219.7,24.82,2021-05-02 16:34:03,16.566666666666666
+660,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",19.79,0.0,211.7,43.82,2021-05-02 16:33:49,16.55
+661,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",3.23,0.0,264.8,54.55,2021-05-02 15:28:04,15.466666666666667
+662,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",41.24,0.0,213.97,9.51,2021-05-02 14:44:07,14.733333333333333
+663,113.85.221.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",33.14,0.0,226.26,2.99,2021-05-02 14:43:51,14.716666666666667
+664,113.85.219.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",0.98,0.0,262.6,372.53,2021-05-01 22:24:44,22.4
+666,113.85.219.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",2.75,0.0,232.64,0.87,2021-05-01 20:25:46,20.416666666666668
+667,113.85.219.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",3.1,0.0,236.04,339.73,2021-05-01 20:25:15,20.416666666666668
+668,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",143.4,0.0,204.2,1.16,2021-05-01 12:24:31,12.4
+669,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",135.13,0.0,206.05,1.94,2021-05-01 12:15:02,12.25
+670,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",14.67,0.0,200.79,8.95,2021-05-01 11:24:45,11.4
+671,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",102.46,0.0,205.58,8.42,2021-05-01 11:24:35,11.4
+672,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",3.71,0.0,215.4,234.11,2021-04-30 23:23:55,23.383333333333333
+673,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",5.86,0.0,216.5,172.9,2021-04-30 23:19:42,23.316666666666666
+674,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",7.66,0.0,206.47,11.79,2021-04-30 23:15:40,23.25
+675,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",2.44,0.0,210.04,252.22,2021-04-30 23:15:28,23.25
+676,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",102.12,0.0,202.23,302.66,2021-04-30 21:35:08,21.583333333333332
+678,141.98.215.*,EstNOC,"Philippines,Metro Manila,Manila",45.4,0.0,231.67,1.0,2021-04-29 12:29:50,12.483333333333333
+679,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",159.31,0.0,210.75,1.8,2021-04-29 11:26:12,11.433333333333334
+681,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",0.78,0.0,250.95,0.62,2021-04-28 21:47:39,21.783333333333335
+682,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",6.96,0.0,254.0,102.18,2021-04-28 19:24:18,19.4
+683,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",8.61,0.0,254.0,102.18,2021-04-28 19:24:18,19.4
+685,23.83.224.*,IT7 Networks Inc,"United States,California,Fremont",168.64,0.0,200.0,0.96,2021-04-28 09:06:48,9.1
+689,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",8.56,0.0,227.01,11.33,2021-04-27 11:06:06,11.1
+691,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",36.02,0.0,252.14,6.68,2021-04-26 23:51:40,23.85
+692,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",6.15,0.0,221.1,11.76,2021-04-26 23:51:19,23.85
+693,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",28.61,0.0,236.65,9.96,2021-04-26 23:51:04,23.85
+694,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",46.91,0.0,238.88,3.53,2021-04-26 22:23:39,22.383333333333333
+697,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",78.17,0.0,253.0,197.29,2021-04-26 21:12:41,21.2
+698,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",9.43,0.0,229.0,220.91,2021-04-26 21:11:58,21.183333333333334
+699,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",8.1,0.0,229.0,220.91,2021-04-26 21:11:58,21.183333333333334
+701,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",145.1,0.0,207.0,0.6,2021-04-26 11:53:42,11.883333333333333
+704,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",145.06,0.0,195.0,25.7,2021-04-25 17:29:22,17.483333333333334
+705,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",153.42,0.0,195.0,25.7,2021-04-25 17:29:21,17.483333333333334
+706,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",106.42,0.0,201.24,133.95,2021-04-25 12:39:22,12.65
+708,113.85.219.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",85.76,0.0,218.47,1.37,2021-04-25 11:23:32,11.383333333333333
+710,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",9.85,0.0,197.57,0.53,2021-04-25 10:31:28,10.516666666666667
+714,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",124.26,0.0,203.0,51.19,2021-04-24 22:33:01,22.55
+716,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",23.56,0.0,244.0,75.05,2021-04-24 20:04:15,20.066666666666666
+717,112.37.124.*,China Mobile Shandong,"China,Shandong,Liaocheng",8.24,0.0,238.0,106.2,2021-04-24 20:02:59,20.033333333333335
+718,67.230.165.*,IT7 Networks,"United States,California,Los Angeles",93.58,0.0,298.0,1.69,2021-04-24 18:04:19,18.066666666666666
+719,23.83.224.*,IT7 Networks Inc,"United States,California,Fremont",154.16,0.0,212.0,34.57,2021-04-24 15:02:25,15.033333333333333
+720,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",7.14,0.0,205.78,4.6,2021-04-24 14:17:21,14.283333333333333
+722,204.124.180.*,Fiber-logic,"Japan,Ōsaka,Osaka",132.33,0.0,211.0,79.79,2021-04-24 14:14:38,14.233333333333333
+723,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",9.14,0.0,210.61,4.68,2021-04-24 13:51:45,13.85
+724,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",13.39,0.0,210.01,6.33,2021-04-24 13:51:29,13.85
+725,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",20.57,0.0,209.68,5.0,2021-04-24 11:44:17,11.733333333333333
+727,104.225.159.*,IT7 Networks Inc,"United States,California,Los Angeles",105.13,0.0,210.0,15.81,2021-04-24 10:55:29,10.916666666666666
+728,18.167.94.*,Amazon.com,"China,,",120.57,0.0,269.0,11.43,2021-04-24 10:53:55,10.883333333333333
+731,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",106.08,0.0,212.95,0.57,2021-04-24 09:34:22,9.566666666666666
+732,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",9.43,0.0,205.38,1.18,2021-04-24 09:34:05,9.566666666666666
+734,61.221.30.*,Chunghwa Telecom,"Taiwan,Taichung City,Taichung",114.96,0.0,260.75,50.08,2021-04-23 23:50:28,23.833333333333332
+738,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",20.51,0.0,207.8,5.28,2021-04-23 12:42:31,12.7
+739,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",9.4,0.0,215.07,6.02,2021-04-23 12:42:13,12.7
+740,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",8.28,0.0,210.14,7.21,2021-04-23 12:41:55,12.683333333333334
+742,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",113.93,0.0,206.24,0.57,2021-04-23 11:57:45,11.95
+744,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",121.05,0.0,201.4,0.52,2021-04-23 11:47:36,11.783333333333333
+745,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",0.8,0.0,207.65,162.06,2021-04-22 22:23:30,22.383333333333333
+748,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",161.43,0.0,202.23,1.19,2021-04-22 18:48:50,18.8
+750,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",136.07,0.0,197.36,4.57,2021-04-22 13:12:54,13.2
+751,23.105.170.*,Leaseweb-usa-wdc,"United States,Virginia,Annandale",12.2,0.0,275.29,5.84,2021-04-22 12:57:16,12.95
+753,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",4.59,0.0,193.8,7.31,2021-04-22 12:40:40,12.666666666666666
+754,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",146.19,0.0,199.25,0.75,2021-04-22 11:04:09,11.066666666666666
+755,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",168.51,0.0,192.43,0.53,2021-04-22 09:39:49,9.65
+757,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",56.26,0.0,200.2,0.51,2021-04-21 21:11:16,21.183333333333334
+758,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",78.88,0.0,197.37,353.52,2021-04-21 20:49:49,20.816666666666666
+760,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",10.44,0.0,213.7,2.69,2021-04-21 15:11:02,15.183333333333334
+761,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",108.07,0.0,196.5,115.9,2021-04-21 15:03:42,15.05
+762,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",6.03,0.0,188.5,7.82,2021-04-21 14:23:43,14.383333333333333
+765,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",116.72,0.0,197.32,204.71,2021-04-21 10:05:58,10.083333333333334
+768,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",22.56,0.0,196.01,6.49,2021-04-20 13:19:22,13.316666666666666
+769,23.97.68.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",133.22,0.0,260.0,9.46,2021-04-20 12:23:48,12.383333333333333
+770,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",4.25,0.0,190.72,0.44,2021-04-20 11:22:17,11.366666666666667
+771,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",8.31,0.0,195.25,0.94,2021-04-20 11:17:54,11.283333333333333
+772,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",4.31,0.0,193.53,1.22,2021-04-20 11:17:37,11.283333333333333
+773,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",14.52,0.0,198.0,5.83,2021-04-20 11:08:34,11.133333333333333
+774,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",2.02,0.0,192.37,4.05,2021-04-20 11:08:08,11.133333333333333
+776,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",123.43,0.0,224.1,213.32,2021-04-19 20:17:44,20.283333333333335
+778,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",142.61,0.0,196.36,5.85,2021-04-19 13:41:16,13.683333333333334
+779,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",134.7,0.0,208.47,8.04,2021-04-18 21:17:43,21.283333333333335
+780,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",70.07,0.0,201.76,208.44,2021-04-18 21:04:25,21.066666666666666
+781,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",74.93,0.0,202.25,5.98,2021-04-18 21:03:57,21.05
+782,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",82.72,0.0,223.96,1.0,2021-04-18 20:41:39,20.683333333333334
+783,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",4.84,0.0,230.04,5.64,2021-04-18 20:41:11,20.683333333333334
+784,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",108.19,0.0,207.75,3.4,2021-04-18 19:57:05,19.95
+785,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",77.67,0.0,204.61,6.86,2021-04-18 19:56:46,19.933333333333334
+788,14.28.153.*,China Telecom,"China,Guangdong,Guangzhou",3.71,0.0,225.8,36.8,2021-04-18 17:03:35,17.05
+789,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",5.86,0.0,225.08,5.82,2021-04-18 17:03:03,17.05
+790,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",0.88,0.0,227.85,154.93,2021-04-18 17:00:11,17.0
+791,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",53.79,0.0,205.78,5.5,2021-04-18 16:24:23,16.4
+792,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",35.95,0.0,210.08,6.66,2021-04-18 16:23:53,16.383333333333333
+793,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",53.47,0.0,208.11,4.52,2021-04-18 16:23:19,16.383333333333333
+794,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",86.04,0.0,200.94,0.45,2021-04-18 11:41:59,11.683333333333334
+795,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",170.27,0.0,192.1,0.94,2021-04-18 11:29:01,11.483333333333333
+796,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",87.52,0.0,194.81,2.51,2021-04-18 11:28:47,11.466666666666667
+797,113.95.164.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",133.87,0.0,192.65,0.81,2021-04-18 11:04:58,11.066666666666666
+798,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",130.77,0.0,215.32,1.75,2021-04-18 10:42:50,10.7
+799,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",90.33,0.0,215.13,6.82,2021-04-18 10:19:58,10.316666666666666
+801,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",12.32,0.0,205.29,0.3,2021-04-18 10:18:29,10.3
+802,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",21.91,0.0,196.22,0.29,2021-04-18 10:18:11,10.3
+803,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",120.5,0.0,204.38,0.45,2021-04-17 13:44:50,13.733333333333333
+804,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",120.73,0.0,209.69,0.53,2021-04-17 12:34:42,12.566666666666666
+806,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",79.31,0.0,197.73,7.18,2021-04-17 11:10:25,11.166666666666666
+809,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",84.31,0.0,203.86,1.31,2021-04-17 10:41:21,10.683333333333334
+810,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",1.29,0.0,205.75,0.76,2021-04-16 22:13:54,22.216666666666665
+812,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",89.36,0.0,205.51,1.77,2021-04-16 12:37:06,12.616666666666667
+813,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",82.28,0.0,209.36,1.09,2021-04-16 12:36:49,12.6
+814,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",94.18,0.0,205.9,100.54,2021-04-16 12:36:18,12.6
+817,113.85.218.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",15.74,0.0,212.9,4.12,2021-04-16 10:36:34,10.6
+824,113.95.165.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",7.01,0.0,197.18,0.95,2021-04-13 18:50:54,18.833333333333332
+825,113.95.165.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",34.33,0.0,195.07,0.35,2021-04-13 18:32:58,18.533333333333335
+826,113.95.165.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",14.63,0.0,197.68,5.7,2021-04-13 14:41:28,14.683333333333334
+827,113.95.165.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",5.16,0.0,198.94,4.32,2021-04-13 14:27:37,14.45
+828,113.85.219.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",13.27,0.0,191.98,1.6,2021-04-13 14:24:36,14.4
+829,144.255.68.*,China Telecom,"China,Shandong,Weifang",1.82,0.0,201.33,110.82,2021-04-12 22:14:25,22.233333333333334
+834,219.131.84.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Guangzhou",74.12,0.0,204.78,3.05,2021-04-12 13:12:04,13.2
+838,144.255.68.*,China Telecom,"China,Shandong,Weifang",106.17,0.0,202.03,2.28,2021-04-11 12:34:21,12.566666666666666
+844,219.145.230.*,China Telecom,"China,Shaanxi,Qianyou",4.74,0.0,208.58,8.33,2021-04-10 18:17:37,18.283333333333335
+845,113.95.165.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",4.5,0.0,195.42,4.89,2021-04-10 11:29:50,11.483333333333333
+846,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",107.91,0.0,194.87,2.56,2021-04-10 10:48:24,10.8
+847,116.21.92.*,China Telecom Guangdong province Guangzhou MAN net,"China,Guangdong,Baiyun",2.14,0.0,197.17,192.92,2021-04-09 22:22:52,22.366666666666667
+851,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",3.15,0.0,195.8,7.43,2021-04-09 21:03:39,21.05
+853,117.23.82.*,China Telecom,"China,Shaanxi,Xi&#39;an",1.71,0.0,198.84,138.27,2021-04-09 17:06:52,17.1
+854,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",3.87,0.0,193.86,6.07,2021-04-09 13:30:04,13.5
+860,113.15.126.*,China Telecom,"China,Guangxi,Mingshan",49.31,0.0,205.98,1.21,2021-04-09 01:05:28,1.0833333333333333
+868,171.8.218.*,China Telecom,"China,Henan,Caoyao",2.31,0.0,191.21,5.24,2021-04-07 15:49:36,15.816666666666666
+875,113.16.163.*,China Telecom,"China,Guangxi,Nanning",0.33,0.0,213.84,311.72,2021-04-06 22:36:00,22.6
+879,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",4.35,0.0,212.09,116.93,2021-04-06 19:34:34,19.566666666666666
+882,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",37.37,0.0,206.6,10.72,2021-04-06 15:28:30,15.466666666666667
+883,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",20.05,0.0,207.1,13.65,2021-04-06 15:19:33,15.316666666666666
+884,171.34.214.*,China Unicom Liaoning,"China,Jiangxi,Nanchang",52.38,0.0,275.9,13.32,2021-04-06 14:22:33,14.366666666666667
+886,219.230.77.*,China Education and Research Network Center,"China,,",43.04,0.0,217.03,0.52,2021-04-06 13:11:53,13.183333333333334
+889,219.131.85.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",24.25,0.0,196.65,383.33,2021-04-06 11:35:31,11.583333333333334
+891,210.72.25.*,China Science and Technology Network,"China,Shanghai,Shanghai",15.61,0.0,210.53,2.19,2021-04-06 11:01:46,11.016666666666667
+897,132.145.92.*,Oracle Cloud,"South Korea,Seoul,Seoul",27.83,0.0,217.34,11.47,2021-04-06 09:56:23,9.933333333333334
+902,222.91.167.*,China Telecom,"China,Shaanxi,Xi&#39;an",1.35,0.0,241.2,159.04,2021-04-06 01:07:04,1.1166666666666667
+903,123.139.81.*,China Unicom Liaoning,"China,Shaanxi,Xi&#39;an",17.68,0.0,246.99,23.2,2021-04-06 01:06:35,1.1
+905,113.89.193.*,China Telecom,"China,Guangdong,Shenzhen",1.44,0.0,218.38,108.8,2021-04-06 00:54:39,0.9
+910,1.203.111.*,China Telecom Beijing,"China,Beijing,Beijing",1.42,0.0,181.13,186.85,2021-04-05 22:28:25,22.466666666666665
+914,8.8.8.*,Google,"United States,,",1.01,0.0,212.81,166.97,2021-04-05 22:17:09,22.283333333333335
+919,124.116.254.*,China Telecom,"China,Shaanxi,Baojishi",0.8,0.0,207.52,1.0,2021-04-05 21:37:51,21.616666666666667
+920,183.228.29.*,China Mobile Guangdong,"China,Chongqing,Chongqing",15.25,0.0,225.73,136.96,2021-04-05 21:18:40,21.3
+924,171.43.250.*,China Telecom,"China,Hubei,Wuhan",3.38,0.0,206.46,5.92,2021-04-05 20:56:28,20.933333333333334
+925,106.113.159.*,China Telecom,"China,Guangdong,Guangzhou",2.76,0.0,219.98,313.08,2021-04-05 20:47:19,20.783333333333335
+936,183.17.126.*,China Telecom,"China,Guangdong,Shenzhen",353.74,0.0,194.0,0.64,2021-04-05 20:13:27,20.216666666666665
+937,112.109.129.*,China Unicom Liaoning,"China,Fujian,Zhangzhou",24.65,0.0,224.73,2.53,2021-04-05 20:09:49,20.15
+938,115.171.63.*,China Telecom Beijing,"China,Beijing,Beijing",59.78,0.0,183.6,9.67,2021-04-05 19:34:15,19.566666666666666
+941,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",32.15,0.0,207.77,6.6,2021-04-05 18:15:55,18.25
+946,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",4.38,0.0,210.8,36.55,2021-04-05 14:05:14,14.083333333333334
+947,1.202.9.*,China Telecom Beijing,"China,Beijing,Beijing",0.36,0.0,188.41,4.79,2021-04-05 12:50:22,12.833333333333334
+948,124.91.104.*,China Unicom Liaoning,"China,,",229.68,0.0,233.66,0.55,2021-04-05 11:53:12,11.883333333333333
+951,104.167.247.*,KURUN,"United States,California,Rancho Cucamonga",41.7,0.0,216.9,6.87,2021-04-05 11:40:00,11.666666666666666
+952,115.171.63.*,China Telecom Beijing,"China,Beijing,Beijing",2.46,0.0,193.44,0.96,2021-04-05 10:43:01,10.716666666666667
+960,221.237.149.*,China Telecom,"China,Sichuan,Chengdu",38.29,0.0,222.51,5.45,2021-04-04 19:10:01,19.166666666666668
+963,144.255.68.*,China Telecom,"China,Shandong,Weifang",54.69,0.0,191.91,7.58,2021-04-04 18:12:28,18.2
+969,183.210.78.*,China Mobile,"China,Jiangsu,Changzhou",8.81,0.0,261.1,5.11,2021-04-04 16:53:12,16.883333333333333
+975,218.14.151.*,China Telecom,"China,,",32.57,0.0,199.63,10.24,2021-04-04 15:33:59,15.55
+979,113.102.17.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",14.74,0.0,229.0,25.74,2021-04-04 15:26:07,15.433333333333334
+980,45.135.117.*,KURUN,"Hong Kong,Central and Western District,Central",47.45,0.0,262.1,10.87,2021-04-04 15:25:56,15.416666666666666
+984,122.227.195.*,China Telecom,"China,,",14.52,0.0,175.57,0.71,2021-04-04 15:21:00,15.35
+990,107.150.5.*,QuadraNet,"United States,California,Los Angeles",124.81,0.0,210.34,4.81,2021-04-04 15:18:21,15.3
+991,203.69.243.*,Chunghwa Telecom,"Taiwan,New Taipei,New Taipei",6.47,0.0,248.8,32.38,2021-04-04 15:18:10,15.3
+994,218.92.221.*,China Telecom,"China,Shanghai,Pudong",7.68,0.0,281.0,7.26,2021-04-04 15:10:27,15.166666666666666
+998,220.249.169.*,China Unicom Liaoning,"China,Fujian,Fuzhou",55.95,0.0,277.9,6.01,2021-04-04 15:04:35,15.066666666666666
+999,103.202.147.*,China Telecom Shanghai,"China,,",371.37,0.0,258.0,1.86,2021-04-04 15:00:54,15.0
+1006,193.122.122.*,Oracle Cloud,"South Korea,Seoul,Seoul",47.8,0.0,231.0,21.93,2021-04-04 14:54:35,14.9
+1008,110.178.210.*,China Telecom,"China,,",1.38,0.0,200.67,1.27,2021-04-04 14:50:06,14.833333333333334
+1012,60.179.32.*,China Telecom,"China,Zhejiang,Ningbo",5.89,0.0,199.59,2.67,2021-04-04 14:12:03,14.2
+1015,222.64.83.*,China Telecom Shanghai,"China,Shanghai,Putuo",1.0,0.0,216.0,61.17,2021-04-04 13:47:50,13.783333333333333
+1026,143.92.40.*,BGPNET Global,"Hong Kong,Central and Western District,",121.25,0.0,225.41,1.17,2021-04-04 13:19:38,13.316666666666666
+1027,119.86.135.*,China Telecom,"China,Chongqing,Chongqing",6.67,0.0,217.47,7.28,2021-04-04 13:18:00,13.3
+1032,14.120.124.*,China Telecom Guangdong province Dongguan MAN netw,"China,Guangdong,Dongguan",7.67,0.0,200.0,4.99,2021-04-04 13:08:55,13.133333333333333
+1041,120.245.2.*,China Mobile,"China,Hebei,Langfang",6.08,0.0,208.04,14.07,2021-04-04 11:43:20,11.716666666666667
+1049,171.214.223.*,China Telecom,"China,Sichuan,Chengdu",30.76,0.0,251.48,1.73,2021-04-04 09:38:16,9.633333333333333
+1056,150.109.12.*,Tencent cloud computing,"Singapore,,Singapore",35.52,0.0,297.0,74.56,2021-04-04 08:29:45,8.483333333333333
+1061,183.94.150.*,China Unicom Liaoning,"China,Hubei,Hongshan",161.75,0.0,199.57,0.55,2021-04-04 07:46:00,7.766666666666667
+1071,27.17.165.*,China Telecom,"China,Hubei,Wuhan",3.5,0.0,213.1,190.91,2021-04-04 02:39:20,2.65
+1072,34.92.240.*,Google Cloud,"Hong Kong,Central and Western District,Central",90.92,0.0,269.3,1.61,2021-04-04 02:38:52,2.6333333333333333
+1088,45.142.158.*,Spartan Host Ltd,"United States,Washington,Seattle",103.62,0.0,246.36,22.71,2021-04-04 00:17:32,0.2833333333333333
+1089,171.34.214.*,China Unicom Liaoning,"China,Jiangxi,Nanchang",5.36,0.0,219.4,12.28,2021-04-04 00:11:13,0.18333333333333332
+1095,1.83.101.*,China Telecom,"China,Shaanxi,Xi&#39;an",0.63,0.0,213.3,53.9,2021-04-03 23:58:52,23.966666666666665
+1100,111.58.250.*,China Mobile Guangdong,"China,Guangdong,Shenzhen",4.06,0.0,238.78,0.51,2021-04-03 23:50:29,23.833333333333332
+1102,171.34.223.*,China Unicom Liaoning,"China,Shanghai,Shanghai",17.51,0.0,231.55,14.51,2021-04-03 23:48:39,23.8
+1103,59.34.195.*,CHINATELECOM Guangdong province Shantou 5G network,"China,,",60.38,0.0,204.85,1.45,2021-04-03 23:48:17,23.8
+1105,183.155.209.*,China Telecom,"China,Zhejiang,Yiwu",1.68,0.0,194.0,91.22,2021-04-03 23:45:11,23.75
+1108,116.115.108.*,China Unicom Liaoning,"China,,",18.0,0.0,223.6,12.36,2021-04-03 23:38:42,23.633333333333333
+1110,18.162.225.*,Amazon.com,"Hong Kong,,",158.9,0.0,221.72,0.9,2021-04-03 23:37:52,23.616666666666667
+1113,60.186.25.*,China Telecom,"China,Zhejiang,Hangzhou",1.17,0.0,179.55,1.86,2021-04-03 23:36:51,23.6
+1114,180.109.26.*,China Telecom,"China,Jiangsu,Nanjing",3.49,0.0,228.28,1.09,2021-04-03 23:36:08,23.6
+1115,121.32.198.*,China Telecom Guangdong province Guangzhou MAN net,"China,Guangdong,Guangzhou",1.47,0.0,214.5,33.0,2021-04-03 23:33:02,23.55
+1118,183.67.19.*,China Telecom,"China,Zhejiang,Hangzhou",1.34,0.0,253.49,0.69,2021-04-03 23:30:49,23.5
+1121,39.190.8.*,China Mobile,"China,Zhejiang,Zhaobaoshan",2.0,0.0,228.5,196.94,2021-04-03 23:21:31,23.35
+1123,39.190.49.*,China Mobile,"China,Zhejiang,Zhaobaoshan",0.98,0.0,216.11,297.95,2021-04-03 23:19:51,23.316666666666666
+1127,27.186.250.*,China Telecom,"China,Hebei,Baoding",0.48,0.0,201.76,200.17,2021-04-03 23:12:43,23.2
+1128,36.106.255.*,China Telecom TIANJIN,"China,Tianjin,Tianjin",0.49,0.0,214.29,4.12,2021-04-03 23:11:35,23.183333333333334
+1130,117.175.124.*,China Mobile Guangdong,"China,Sichuan,Chengdu",3.4,0.0,267.2,44.32,2021-04-03 23:10:05,23.166666666666668
+1131,27.192.173.*,China Unicom Liaoning,"China,Beijing,Beijing",8.49,0.0,213.44,23.1,2021-04-03 23:08:40,23.133333333333333
+1135,111.224.208.*,China Telecom,"China,Beijing,Beijing",0.48,0.0,201.62,102.44,2021-04-03 23:05:54,23.083333333333332
+1140,61.140.132.*,China Telecom Guangdong province Guangzhou MAN net,"China,Guangdong,Guangzhou",1.25,0.0,204.42,305.33,2021-04-03 23:00:55,23.0
+1144,149.129.127.*,Alibaba,"Hong Kong,,",21.4,0.0,288.9,93.1,2021-04-03 22:59:24,22.983333333333334
+1146,58.208.43.*,China Telecom,"China,Shanghai,Shanghai",7.04,0.0,193.88,299.77,2021-04-03 22:58:03,22.966666666666665
+1149,113.78.66.*,China Telecom Guangdong province Dongguan MAN netw,"China,Shanghai,Shanghai",10.55,0.0,195.31,13.1,2021-04-03 22:52:01,22.866666666666667
+1150,115.60.179.*,China Unicom Liaoning,"China,Henan,Zhengzhou",23.12,0.0,220.86,4.48,2021-04-03 22:51:11,22.85
+1152,117.175.124.*,China Mobile Guangdong,"China,Sichuan,Chengdu",2.69,0.0,248.5,33.12,2021-04-03 22:49:51,22.816666666666666
+1161,116.206.101.*,LizCat (Shanghai) Limited,"Hong Kong,,",333.37,0.0,237.17,134.21,2021-04-03 22:21:37,22.35
+1164,113.77.100.*,China Telecom Guangdong province Dongguan MAN netw,"China,Guangdong,Luohu",1.5,0.0,205.6,300.07,2021-04-03 22:19:55,22.316666666666666
+1172,42.236.200.*,China Unicom Liaoning,"China,Henan,Zhengzhou",39.21,0.0,298.5,46.22,2021-04-03 21:52:27,21.866666666666667
+1173,220.196.192.*,China Unicom Shanghai,"China,Shanghai,Shanghai",12.27,0.0,273.52,13.81,2021-04-03 21:49:29,21.816666666666666
+1175,39.85.216.*,China Unicom Liaoning,"China,Shanghai,Shanghai",25.79,0.0,246.3,73.67,2021-04-03 21:43:53,21.716666666666665
+1176,122.231.95.*,China Telecom,"China,Zhejiang,Hangzhou",2.98,0.0,204.2,293.31,2021-04-03 21:43:46,21.716666666666665
+1177,222.143.158.*,China Unicom Liaoning,"China,,",37.32,0.0,220.34,16.03,2021-04-03 21:43:42,21.716666666666665
+1178,114.246.197.*,China Unicom Beijing,"China,Inner Mongolia Autonomous Region,Hohhot",11.03,0.0,223.04,10.7,2021-04-03 21:43:04,21.716666666666665
+1179,111.175.61.*,China Telecom,"China,Hubei,Hongshan",0.95,0.0,223.3,177.26,2021-04-03 21:43:03,21.716666666666665
+1180,222.183.26.*,China Telecom,"China,,",4.29,0.0,228.51,0.78,2021-04-03 21:41:55,21.683333333333334
+1184,222.214.188.*,China Telecom,"China,Sichuan,Neijiang",3.86,0.0,224.87,2.1,2021-04-03 21:37:49,21.616666666666667
+1191,61.52.34.*,China Unicom Liaoning,"China,Henan,Zhengzhou",22.68,0.0,219.97,133.88,2021-04-03 21:29:18,21.483333333333334
+1192,113.110.79.*,CHINATELECOM Guangdong province Zhanjiang 5G netwo,"China,Guangdong,Zhanjiang",62.27,0.0,209.9,0.63,2021-04-03 21:28:46,21.466666666666665
+1194,116.233.177.*,China Telecom Shanghai,"China,Shanghai,Shanghai",7.26,0.0,182.22,275.32,2021-04-03 21:27:56,21.45
+1196,45.159.50.*,Owl Limited,"Japan,Tokyo,Tokyo",38.63,0.0,195.0,380.65,2021-04-03 21:26:03,21.433333333333334
+1197,129.226.172.*,Tencent cloud computing,"Hong Kong,Central and Western District,Central",39.06,0.0,245.5,10.27,2021-04-03 21:24:36,21.4
+1201,183.253.229.*,China Mobile Guangdong,"China,Fujian,Ningde",7.43,0.0,228.4,0.76,2021-04-03 21:23:01,21.383333333333333
+1213,203.184.132.*,HGC Broadband,"Hong Kong,,",6.21,0.0,276.46,213.99,2021-04-03 21:17:08,21.283333333333335
+1220,103.116.47.*,Jinx Co. Limited,"Hong Kong,Central and Western District,Central",36.24,0.0,235.3,38.95,2021-04-03 21:13:39,21.216666666666665
+1222,112.117.18.*,China Telecom,"China,Yunnan,Kunming",24.44,0.0,253.63,46.89,2021-04-03 21:12:24,21.2
+1223,61.172.28.*,China Telecom Shanghai,"China,Shanghai,Shanghai",96.03,0.0,173.06,2.26,2021-04-03 21:12:00,21.2
+1224,107.175.63.*,ColoCrossing,"United States,,",41.71,0.0,216.76,111.47,2021-04-03 21:11:35,21.183333333333334
+1227,125.32.245.*,China Unicom Liaoning,"China,Jilin,Jilin City",255.77,0.0,223.76,3.82,2021-04-03 21:07:54,21.116666666666667
+1230,27.43.113.*,China Unicom Guangdong,"China,Shanghai,Datong",188.26,0.0,247.56,3.4,2021-04-03 21:06:29,21.1
+1231,39.81.176.*,China Unicom Liaoning,"China,Shandong,Heze",77.97,0.0,273.8,61.27,2021-04-03 21:06:04,21.1
+1237,223.73.115.*,China Mobile,"China,Guangdong,Guangzhou",2.1,0.0,216.31,133.18,2021-04-03 21:02:04,21.033333333333335
+1240,111.172.194.*,China Telecom,"China,,",232.62,0.0,234.8,0.62,2021-04-03 20:58:38,20.966666666666665
+1248,182.39.158.*,China Telecom,"China,,",22.28,0.0,206.2,137.13,2021-04-03 20:52:21,20.866666666666667
+1252,113.69.96.*,China Telecom Guangdong province Foshan MAN networ,"China,Guangdong,Foshan",3.33,0.0,194.8,26.04,2021-04-03 20:50:55,20.833333333333332
+1255,183.195.102.*,"Shanghai Mobile Communications Co.,Ltd.","China,Henan,Zhengzhou",6.84,0.0,202.4,117.19,2021-04-03 20:49:37,20.816666666666666
+1257,116.206.101.*,LizCat (Shanghai) Limited,"Hong Kong,,",205.87,0.0,225.4,6.12,2021-04-03 20:48:27,20.8
+1258,113.110.79.*,CHINATELECOM Guangdong province Zhanjiang 5G netwo,"China,Guangdong,Zhanjiang",22.07,0.0,209.7,30.24,2021-04-03 20:47:56,20.783333333333335
+1259,183.7.225.*,CHINATELECOM Guangdong province Zhuhai 5G network,"China,,",41.33,0.0,211.4,1.21,2021-04-03 20:46:37,20.766666666666666
+1262,183.7.225.*,CHINATELECOM Guangdong province Zhuhai 5G network,"China,,",3.66,0.0,201.33,126.24,2021-04-03 20:42:20,20.7
+1264,111.172.194.*,China Telecom,"China,,",53.04,0.0,239.4,50.68,2021-04-03 20:39:21,20.65
+1265,117.67.255.*,China Telecom,"China,Anhui,Hefei",180.2,0.0,189.1,4.06,2021-04-03 20:38:28,20.633333333333333
+1267,111.172.194.*,China Telecom,"China,,",99.44,0.0,210.7,0.63,2021-04-03 20:36:36,20.6
+1268,60.222.231.*,China Unicom Liaoning,"China,Shanxi,Yuncheng",40.01,0.0,200.6,14.73,2021-04-03 20:35:03,20.583333333333332
+1269,106.111.51.*,China Telecom,"China,Jiangsu,Taizhou",15.07,0.0,226.7,63.58,2021-04-03 20:31:40,20.516666666666666
+1270,106.111.51.*,China Telecom,"China,Jiangsu,Taizhou",8.95,0.0,238.35,22.46,2021-04-03 20:30:43,20.5
+1272,171.210.195.*,China Telecom,"China,Sichuan,Chengdu",11.35,0.0,258.0,242.54,2021-04-03 20:29:10,20.483333333333334
+1275,180.113.11.*,China Telecom,"China,,",1.06,0.0,178.0,6.47,2021-04-03 20:27:56,20.45
+1276,182.37.86.*,China Telecom,"China,Beijing,Beijing",139.28,0.0,193.58,7.54,2021-04-03 20:26:13,20.433333333333334
+1280,193.105.207.*,Tianhai InfoTech,"United States,,",11.01,0.0,261.78,87.28,2021-04-03 20:24:40,20.4
+1288,117.152.70.*,China Mobile Guangdong,"China,Hubei,Wuhan",7.14,0.0,228.16,2.13,2021-04-03 20:18:11,20.3
+1289,183.222.22.*,China Mobile Guangdong,"China,Sichuan,Chengdu",0.46,0.0,241.6,280.31,2021-04-03 20:18:00,20.3
+1290,125.77.77.*,China Telecom,"China,Fujian,Fuzhou",137.96,0.0,200.32,72.57,2021-04-03 20:17:53,20.283333333333335
+1297,219.137.65.*,China Telecom Guangdong province Guangzhou MAN net,"China,Guangdong,Guangzhou",7.22,0.0,195.97,6.1,2021-04-03 20:13:04,20.216666666666665
+1298,113.102.36.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,,",8.25,0.0,210.85,315.59,2021-04-03 20:12:35,20.2
+1303,107.172.102.*,ColoCrossing,"United States,,",12.33,0.0,263.74,88.28,2021-04-03 20:10:15,20.166666666666668
+1304,223.166.92.*,China Unicom Shanghai,"China,Shanghai,Shanghai",58.99,0.0,244.97,1.93,2021-04-03 20:09:54,20.15
+1307,211.253.24.*,Korea Telecom,"South Korea,Seoul,Seoul",3.14,0.0,220.99,2.33,2021-04-03 20:08:53,20.133333333333333
+1311,45.141.139.*,MOACK.Co.LTD,"United States,,",31.1,0.0,196.7,5.53,2021-04-03 20:06:26,20.1
+1312,116.7.54.*,China Telecom,"China,Guangdong,Shenzhen",6.53,0.0,194.07,129.71,2021-04-03 20:05:51,20.083333333333332
+1322,113.110.79.*,CHINATELECOM Guangdong province Zhanjiang 5G netwo,"China,Guangdong,Zhanjiang",5.2,0.0,202.2,6.2,2021-04-03 20:01:37,20.016666666666666
+1323,124.218.154.*,Asia Pacific On-line Service,"Taiwan,Kaohsiung,Kaohsiung City",64.56,0.0,174.0,59.63,2021-04-03 20:00:39,20.0
+1324,36.23.71.*,China Telecom,"China,Zhejiang,Linhai",14.3,0.0,219.5,27.14,2021-04-03 19:59:08,19.983333333333334
+1330,116.115.108.*,China Unicom Liaoning,"China,,",129.14,0.0,216.43,1.33,2021-04-03 19:53:55,19.883333333333333
+1332,123.163.204.*,China Telecom,"China,Henan,Zhoukou",7.72,0.0,203.8,308.55,2021-04-03 19:52:07,19.866666666666667
+1336,110.188.235.*,China Telecom,"China,Sichuan,Luhua",4.47,0.0,233.83,327.49,2021-04-03 19:50:15,19.833333333333332
+1338,117.173.62.*,China Mobile Guangdong,"China,Sichuan,Chengdu",3.78,0.0,254.73,329.69,2021-04-03 19:49:25,19.816666666666666
+1339,114.88.175.*,China Telecom Shanghai,"China,Shanghai,Hongkou",12.45,0.0,239.4,41.6,2021-04-03 19:47:43,19.783333333333335
+1340,122.238.90.*,China Telecom,"China,Zhejiang,Jiaxing",15.17,0.0,203.53,59.95,2021-04-03 19:47:03,19.783333333333335
+1341,153.34.56.*,China Unicom Liaoning,"China,Jiangsu,Suzhou",8.53,0.0,207.65,4.48,2021-04-03 19:46:47,19.766666666666666
+1342,119.133.255.*,China Telecom,"China,Guangdong,Guangzhou",16.43,0.0,194.73,260.17,2021-04-03 19:45:35,19.75
+1343,223.98.34.*,China Mobile Shandong,"China,Shandong,Dezhou",1.12,0.0,240.8,218.16,2021-04-03 19:44:28,19.733333333333334
+1344,180.119.129.*,China Telecom,"China,Jiangsu,Yangzhou",179.41,0.0,179.38,2.48,2021-04-03 19:44:20,19.733333333333334
+1346,223.157.12.*,China Telecom,"China,Hunan,Loudi",7.1,0.0,213.25,6.77,2021-04-03 19:43:33,19.716666666666665
+1351,27.46.236.*,China Unicom Guangzhou,"China,Guangdong,Guangzhou",165.72,0.0,237.08,0.76,2021-04-03 19:42:37,19.7
+1362,58.212.208.*,China Telecom,"China,,",11.95,0.0,194.24,11.97,2021-04-03 19:39:33,19.65
+1365,52.175.126.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",280.99,0.0,199.34,3.12,2021-04-03 19:38:39,19.633333333333333
+1368,180.112.7.*,China Telecom,"China,Jiangsu,Yicheng",185.85,0.0,184.52,0.59,2021-04-03 19:36:15,19.6
+1374,106.113.159.*,China Telecom,"China,Guangdong,Guangzhou",4.0,0.0,223.86,1.14,2021-04-03 19:33:58,19.55
+1376,45.129.2.*,LLC Baxet,"Russia,,",110.07,0.0,283.5,54.37,2021-04-03 19:32:30,19.533333333333335
+1379,221.219.111.*,China Unicom Beijing,"China,Beijing,Beijing",63.89,0.0,203.55,4.51,2021-04-03 19:30:59,19.5
+1385,171.83.97.*,China Telecom,"China,Hubei,Wuhan",2.27,0.0,204.96,148.21,2021-04-03 19:28:28,19.466666666666665
+1389,120.227.196.*,China Mobile,"China,Hunan,Jianning",8.46,0.0,222.23,5.02,2021-04-03 18:24:41,18.4
+1390,113.85.219.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",8.39,0.0,208.4,316.83,2021-04-03 16:19:14,16.316666666666666
+1392,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",3.07,0.0,215.6,32.9,2021-04-03 14:18:55,14.3
+1394,183.53.108.*,China Telecom Guangdong province Dongguan MAN netw,"China,Guangdong,Dongguan",4.92,0.0,193.17,6.71,2021-04-02 16:57:02,16.95
+1401,113.102.16.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Shanghai,Shanghai",1.37,0.0,209.6,228.03,2021-04-01 22:22:01,22.366666666666667
+1405,116.27.126.*,China Telecom,"China,Guangdong,Guangzhou",166.25,0.0,198.06,1.49,2021-04-01 15:18:00,15.3
+1416,61.136.223.*,China Telecom,"China,Beijing,Beijing",2.97,0.0,237.26,135.3,2021-03-30 17:13:02,17.216666666666665
+1418,114.85.109.*,China Telecom Shanghai,"China,Shanghai,Xuhui",46.11,0.0,173.24,0.46,2021-03-28 23:53:14,23.883333333333333
+1420,27.197.91.*,China Unicom Liaoning,"China,Shandong,Fengjia",0.0,0.0,240.11,50.32,2021-03-28 16:48:51,16.8
+1421,58.209.184.*,China Telecom,"China,Jiangsu,Suzhou",1.71,0.0,193.48,2.34,2021-03-28 16:40:54,16.666666666666668
+1423,111.58.119.*,China Mobile Guangdong,"China,Guangxi,Qinzhou",1.03,0.0,236.35,0.6,2021-03-27 23:48:49,23.8
+1428,219.138.77.*,China Telecom,"China,,",0.7,0.0,218.0,182.6,2021-03-26 14:57:01,14.95
+1429,129.227.234.*,Zenlayer,"Japan,Tokyo,Tokyo",77.46,0.0,152.48,1.56,2021-03-26 11:05:13,11.083333333333334
+1432,180.171.232.*,China Telecom Shanghai,"China,Shanghai,Shanghai",0.56,0.0,260.27,3.39,2021-03-24 21:24:27,21.4
+1433,183.199.128.*,China Mobile Hebei,"China,Hebei,Dazidian",1.28,0.0,225.91,135.09,2021-03-24 18:40:54,18.666666666666668
+1435,116.209.228.*,China Telecom,"China,,",2.54,0.0,232.66,177.06,2021-03-24 18:02:14,18.033333333333335
+1440,117.136.87.*,China Mobile Guangdong,"China,Shaanxi,Xi&#39;an",0.95,0.0,278.8,361.29,2021-03-23 12:52:24,12.866666666666667
+1442,113.85.219.*,CHINATELECOM Guangdong province Chaozhou 5G networ,"China,Guangdong,Gaoyao",2.45,0.0,207.27,220.27,2021-03-23 12:33:27,12.55
+1444,103.149.162.*,"Blinkload Technology Co., Ltd Hong Kong","United States,Oregon,Portland",42.59,0.0,244.4,43.93,2021-03-22 22:02:56,22.033333333333335
+1446,198.13.43.*,"Choopa, LLC","Japan,Tokyo,Heiwajima",0.34,0.0,279.0,37.06,2021-03-22 21:38:08,21.633333333333333
+1451,47.75.203.*,Alibaba,"China,,",48.21,0.0,194.4,2.82,2021-03-22 19:04:32,19.066666666666666
+1457,112.8.128.*,China Mobile Shandong,"China,Shanghai,Shanghai",0.75,0.0,243.89,358.27,2021-03-22 18:10:44,18.166666666666668
+1458,61.190.56.*,China Telecom,"China,Anhui,Hefei",4.98,0.0,199.14,7.17,2021-03-22 18:08:34,18.133333333333333
+1459,156.234.74.*,Icidc Network,"Hong Kong,Central and Western District,Central",160.17,0.0,222.36,3.6,2021-03-22 18:03:29,18.05
+1476,117.147.42.*,China Mobile,"China,Zhejiang,Hangzhou",0.56,0.0,255.0,226.08,2021-03-20 16:06:35,16.1
+1480,120.230.78.*,China Mobile,"China,Guangdong,Guangzhou",1.39,0.0,211.18,351.23,2021-03-20 10:53:24,10.883333333333333
+1481,116.20.67.*,China Telecom Guangdong province Foshan MAN networ,"China,Guangdong,Foshan",1.52,0.0,204.74,0.62,2021-03-20 10:49:27,10.816666666666666
+1487,13.75.75.*,Microsoft Azure,"Hong Kong,Central and Western District,Central",140.9,0.0,243.7,10.75,2021-03-19 19:10:18,19.166666666666668
+1489,180.165.132.*,China Telecom Shanghai,"China,Shanghai,Liuli",1.39,0.0,178.68,359.84,2021-03-19 17:34:23,17.566666666666666
+1490,223.70.120.*,China Mobile,"China,Beijing,Beijing",0.31,0.0,220.05,209.32,2021-03-19 16:46:39,16.766666666666666
+1494,180.171.232.*,China Telecom Shanghai,"China,Shanghai,Shanghai",0.49,0.0,203.88,354.65,2021-03-19 14:14:29,14.233333333333333
+1507,111.37.20.*,China Mobile Shandong,"China,Shandong,Linyi",1.35,0.0,280.5,21.3,2021-03-19 09:11:35,9.183333333333334
+1512,94.199.102.*,DediPath,"United States,California,Los Angeles",2.69,0.0,284.0,87.84,2021-03-18 23:55:06,23.916666666666668
+1521,80.251.209.*,Fiber-logic,"United States,California,Los Angeles",287.54,0.0,174.42,1.63,2021-03-18 20:47:03,20.783333333333335
+1523,122.247.102.*,China Telecom,"China,Shanghai,Shanghai",0.89,0.0,216.29,0.56,2021-03-18 20:29:45,20.483333333333334
+1553,115.205.71.*,China Telecom,"China,Zhejiang,Hangzhou",11.63,0.0,187.92,3.92,2021-03-18 12:03:28,12.05
+1558,61.143.153.*,China Telecom,"China,,",39.25,0.0,195.11,6.23,2021-03-18 11:19:13,11.316666666666666
+1560,106.85.40.*,China Telecom,"China,Chongqing,Chongqing",26.81,0.0,232.02,3.34,2021-03-18 11:14:45,11.233333333333333
+1561,61.143.153.*,China Telecom,"China,,",38.31,0.0,195.47,7.92,2021-03-18 11:08:19,11.133333333333333
+1569,219.138.77.*,China Telecom,"China,,",51.11,0.0,225.18,1.17,2021-03-18 10:22:23,10.366666666666667
+1581,114.38.3.*,HiNet,"Taiwan,Taichung City,Taichung",22.41,0.0,247.05,1.31,2021-03-18 08:59:20,8.983333333333333
+1583,218.17.162.*,China Telecom,"China,Guangdong,Shenzhen",65.4,0.0,196.65,1.06,2021-03-18 08:30:49,8.5
+1592,218.252.8.*,HK Cable TV,"Hong Kong,Central and Western District,Kennedy Town",7.2,0.0,291.5,6.05,2021-03-18 03:56:36,3.9333333333333336
+1593,199.180.115.*,IT7 Networks,"United States,California,Los Angeles",35.26,0.0,177.5,14.47,2021-03-18 03:45:35,3.75
+1595,172.104.121.*,Linode,"Japan,Tokyo,Tokyo",50.62,0.0,234.82,1.09,2021-03-18 02:51:52,2.85
+1601,113.102.166.*,China Telecom,"China,Guangdong,Shenzhen",0.73,0.0,220.41,144.36,2021-03-18 00:42:41,0.7
+1608,183.209.159.*,China Mobile,"China,Shanghai,Shanghai",65.76,0.0,290.34,1.28,2021-03-18 00:00:01,0.0
+1609,119.8.120.*,Huawei Clouds,"China,,",9.81,0.0,197.55,0.48,2021-03-17 23:58:37,23.966666666666665
+1610,119.8.120.*,Huawei Clouds,"China,,",5.0,0.0,197.71,0.37,2021-03-17 23:57:32,23.95
+1628,42.200.69.*,Netvigator,"Hong Kong,Central and Western District,Central",90.32,0.0,195.13,1.03,2021-03-17 21:56:43,21.933333333333334
+1636,59.67.0.*,China Education and Research Network Center,"China,Beijing,Daxing",22.74,0.0,194.5,4.3,2021-03-17 17:18:05,17.3
+1639,124.16.141.*,China Science and Technology Network,"China,,",45.54,0.0,210.01,58.46,2021-03-17 14:24:50,14.4
+1640,18.166.177.*,Amazon.com,"China,,",155.98,0.0,243.27,1.17,2021-03-17 13:43:11,13.716666666666667
+1655,39.81.54.*,China Unicom Liaoning,"China,,",131.51,0.0,198.84,1.23,2021-03-17 10:43:27,10.716666666666667
+1660,218.14.151.*,China Telecom,"China,,",19.81,0.0,193.64,0.71,2021-03-17 10:26:48,10.433333333333334
+1662,58.50.51.*,China Telecom,"China,,",3.94,0.0,211.65,5.08,2021-03-17 10:17:15,10.283333333333333

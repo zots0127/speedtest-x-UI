@@ -1,0 +1,33 @@
+,ip,isp,addr,dspeed,uspeed,ping,jitter,created,hr
+0,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",47.37,11.48,15.0,9.85,2022-05-24 20:28:44,20.466666666666665
+1,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",49.12,0.0,16.9,32.31,2022-05-24 20:28:11,20.466666666666665
+2,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",54.45,0.0,18.5,14.44,2022-05-24 20:27:52,20.45
+3,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",52.65,11.1,16.3,18.1,2022-05-24 20:26:27,20.433333333333334
+4,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",48.43,11.39,15.6,6.25,2022-05-24 20:25:24,20.416666666666668
+5,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",47.17,11.61,15.7,1.24,2022-05-24 20:24:07,20.4
+6,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",47.5,8.75,21.6,19.93,2022-05-24 20:18:24,20.3
+7,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",52.06,9.53,15.8,11.41,2022-05-24 19:04:05,19.066666666666666
+8,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",61.12,11.82,13.6,10.14,2022-05-24 18:12:02,18.2
+9,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",51.95,8.95,15.4,25.38,2022-05-24 07:24:16,7.4
+10,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",84.61,9.72,17.0,55.76,2022-05-23 23:32:44,23.533333333333335
+11,218.209.134.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",16.43,7.13,193.7,4.38,2022-05-23 18:16:28,18.266666666666666
+69,218.209.139.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",56.57,12.54,203.9,2.48,2022-04-20 13:21:35,13.35
+72,218.209.139.*,SK Broadband,"South Korea,Gyeonggi-do,Suwon",55.69,11.97,196.2,2.04,2022-04-19 19:49:48,19.816666666666666
+211,132.226.172.*,Oracle Cloud,"South Korea,Seoul,Seoul",51.11,17.44,236.0,0.23,2021-11-08 07:08:25,7.133333333333334
+267,132.226.172.*,Oracle Cloud,"South Korea,Seoul,Seoul",50.15,0.0,506.0,2.64,2021-09-30 12:42:38,12.7
+353,59.18.143.*,Korea Telecom,"South Korea,Gyeonggi-do,Suwon",15.21,0.59,172.0,28.6,2021-08-09 12:13:15,12.216666666666667
+420,115.145.162.*,SungKyunKwan University (SKKU),"South Korea,Gyeonggi-do,Suwon",200.23,96.42,166.1,1.1,2021-06-10 16:43:06,16.716666666666665
+470,59.18.143.*,Korea Telecom,"South Korea,Gyeonggi-do,Gyeonggi-do",22.84,6.27,169.63,2.24,2021-05-23 17:23:25,17.383333333333333
+472,59.18.143.*,Korea Telecom,"South Korea,Gyeonggi-do,Gyeonggi-do",20.83,1.74,169.37,1.83,2021-05-23 06:22:21,6.366666666666666
+786,115.145.162.*,SungKyunKwan University (SKKU),"South Korea,Gyeonggi-do,Suwon",284.9,90.5,175.98,1.21,2021-04-18 19:26:48,19.433333333333334
+897,132.145.92.*,Oracle Cloud,"South Korea,Seoul,Seoul",27.83,0.0,217.34,11.47,2021-04-06 09:56:23,9.933333333333334
+1005,193.122.122.*,Oracle Cloud,"South Korea,Seoul,Seoul",47.8,74.66,231.0,21.93,2021-04-04 14:54:46,14.9
+1006,193.122.122.*,Oracle Cloud,"South Korea,Seoul,Seoul",47.8,0.0,231.0,21.93,2021-04-04 14:54:35,14.9
+1286,193.123.255.*,Oracle Cloud,"South Korea,Seoul,Seoul",51.4,39.3,520.83,193.2,2021-04-03 20:19:14,20.316666666666666
+1307,211.253.24.*,Korea Telecom,"South Korea,Seoul,Seoul",3.14,0.0,220.99,2.33,2021-04-03 20:08:53,20.133333333333333
+1366,220.78.199.*,Korea Telecom,"South Korea,Gyeonggi-do,Yongin-si",31.32,84.62,176.43,0.91,2021-04-03 19:37:36,19.616666666666667
+1414,158.247.199.*,"Choopa, LLC","South Korea,Seoul,Seoul",39.51,48.02,598.86,29.14,2021-03-31 10:31:46,10.516666666666667
+1515,140.238.30.*,Oracle Cloud,"South Korea,Seoul,Seoul",43.56,46.74,271.4,6.18,2021-03-18 23:02:56,23.033333333333335
+1538,115.145.162.*,SungKyunKwan University (SKKU),"South Korea,Seoul,Gangseo-gu",526.42,163.2,178.41,1.38,2021-03-18 13:44:18,13.733333333333333
+1648,14.63.173.*,Korea Telecom,"South Korea,Gyeonggi-do,Seongnam-si",53.78,40.85,266.4,360.38,2021-03-17 11:17:24,11.283333333333333
+1665,203.252.33.*,SungKyunKwan University (SKKU),"South Korea,Gyeonggi-do,Suwon",41.18,7.7,174.25,2.18,2021-03-17 10:13:13,10.216666666666667
